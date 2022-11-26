@@ -1,0 +1,2157 @@
+2022-11-10 11:48:15,032 - logger_File -INFO - React Appis equal toReact App
+2022-11-10 11:48:15,080 - logger_File -INFO - logo is present
+2022-11-10 12:20:59,878 - logger_File -INFO - React Appis equal toReact App
+2022-11-10 13:30:28,407 - logger_File -INFO - React Appis equal toReact App
+2022-11-10 13:30:28,862 - logger_File -INFO - User Clicked Sign In Button
+2022-11-10 13:30:29,652 - logger_File -INFO - User Entered E-mail and Password
+2022-11-10 13:30:29,929 - logger_File -INFO - User Clicked Login Button
+2022-11-10 13:30:30,368 - logger_File -INFO - Account is Visible
+2022-11-10 15:15:12,144 - logger_File -INFO - React Appis equal toReact App
+2022-11-10 15:15:12,237 - logger_File -INFO - User Clicked Sign In Button
+2022-11-10 15:15:12,391 - logger_File -INFO - User Entered E-mail and Password
+2022-11-10 15:15:12,445 - logger_File -INFO - User Clicked Login Button
+2022-11-10 15:15:13,519 - logger_File -INFO - Account is Visible
+2022-11-10 19:51:12,981 - logger_File -INFO - User Clicked Sign In Button
+2022-11-11 00:08:05,195 - logger_File -INFO - React Appis equal toReact App
+2022-11-11 00:08:05,280 - logger_File -INFO - User Clicked Sign In Button
+2022-11-11 00:08:05,430 - logger_File -INFO - User Entered E-mail and Password
+2022-11-11 00:08:05,483 - logger_File -INFO - User Clicked Login Button
+2022-11-11 00:08:06,001 - logger_File -INFO - Account is Visible
+2022-11-11 00:38:58,228 - logger_File -INFO - User Clicked Sign In Button
+2022-11-11 00:38:58,299 - logger_File -INFO - User Clicked On Creat New Account
+2022-11-11 00:41:59,135 - logger_File -INFO - User Clicked Sign In Button
+2022-11-11 00:41:59,213 - logger_File -INFO - User Clicked On Creat New Account
+2022-11-11 00:41:59,506 - logger_File -INFO - User Entered Reuired Feilds Data
+2022-11-11 00:41:59,565 - logger_File -INFO - User Clicked Sign Up Button
+2022-11-11 00:41:59,962 - logger_File -INFO - Account i-con is Visible to the User
+2022-11-14 14:58:31,274 - logger_File -INFO - React Appis equal toReact App
+2022-11-14 14:58:31,482 - logger_File -INFO - User Clicked Sign In Button
+2022-11-14 14:58:31,778 - logger_File -INFO - User Entered E-mail and Password
+2022-11-14 14:58:31,913 - logger_File -INFO - User Clicked Login Button
+2022-11-14 14:58:35,146 - logger_File -INFO - Account is Visible
+2022-11-14 22:20:33,943 - logger_File -INFO - React Appis equal toReact App
+2022-11-14 22:20:34,076 - logger_File -INFO - User Clicked Sign In Button
+2022-11-14 22:20:34,327 - logger_File -INFO - User Entered E-mail and Password
+2022-11-14 22:20:34,396 - logger_File -INFO - User Clicked Login Button
+2022-11-14 22:20:34,791 - logger_File -INFO - Account is Visible
+2022-11-14 23:44:52,627 - logger_File -INFO - React Appis equal toReact App
+2022-11-14 23:44:52,754 - logger_File -INFO - User Clicked Sign In Button
+2022-11-14 23:44:52,953 - logger_File -INFO - User Entered E-mail and Password
+2022-11-14 23:44:53,035 - logger_File -INFO - User Clicked Login Button
+2022-11-14 23:44:53,433 - logger_File -INFO - Account is Visible
+2022-11-14 23:44:53,547 - logger_File -INFO - User Clicked on Account Option
+2022-11-14 23:44:53,748 - logger_File -INFO - User entered Name and phone Number
+2022-11-14 23:44:53,826 - logger_File -INFO - User Clicked on Update Button
+2022-11-14 23:44:53,850 - logger_File -INFO - User can see the Profiel 
+2022-11-14 23:54:55,940 - logger_File -INFO - React Appis equal toReact App
+2022-11-14 23:54:55,996 - logger_File -INFO - logo is present
+2022-11-14 23:54:58,896 - logger_File -INFO - React Appis equal toReact App
+2022-11-14 23:54:59,036 - logger_File -INFO - User Clicked Sign In Button
+2022-11-14 23:54:59,317 - logger_File -INFO - User Entered E-mail and Password
+2022-11-14 23:54:59,410 - logger_File -INFO - User Clicked Login Button
+2022-11-14 23:54:59,807 - logger_File -INFO - Account is Visible
+2022-11-14 23:54:59,950 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 01:01:37,999 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 01:01:38,178 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 01:01:38,464 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 01:01:38,579 - logger_File -INFO - User Clicked Login Button
+2022-11-15 01:06:15,221 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 01:06:15,395 - logger_File -INFO - User Clicked On Creat New Account
+2022-11-15 01:06:16,032 - logger_File -INFO - User Entered Reuired Feilds Data
+2022-11-15 01:06:16,153 - logger_File -INFO - User Clicked Sign Up Button
+2022-11-15 01:06:16,679 - logger_File -INFO - Account i-con is Visible to the User
+2022-11-15 01:14:25,154 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 01:14:25,398 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 01:14:25,796 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 01:14:25,942 - logger_File -INFO - User Clicked Login Button
+2022-11-15 01:14:26,306 - logger_File -INFO - Account is Visible
+2022-11-15 01:16:06,580 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 01:16:06,854 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 01:16:07,246 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 01:16:07,389 - logger_File -INFO - User Clicked Login Button
+2022-11-15 09:05:16,817 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 09:05:16,959 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 09:05:17,137 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 09:05:17,202 - logger_File -INFO - User Clicked Login Button
+2022-11-15 09:05:17,920 - logger_File -INFO - Account is Visible
+2022-11-15 09:11:38,820 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 09:11:38,922 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 09:11:39,094 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 09:11:39,157 - logger_File -INFO - User Clicked Login Button
+2022-11-15 09:29:03,993 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 09:29:04,023 - logger_File -INFO - logo is present
+2022-11-15 09:29:06,806 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 09:29:06,940 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 09:29:07,149 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 09:29:07,216 - logger_File -INFO - User Clicked Login Button
+2022-11-15 09:36:10,984 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 09:36:11,097 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 09:36:11,276 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 09:36:11,343 - logger_File -INFO - User Clicked Login Button
+2022-11-15 09:36:11,733 - logger_File -INFO - Account is Visible
+2022-11-15 09:42:19,000 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 09:42:19,050 - logger_File -INFO - logo is present
+2022-11-15 09:42:22,115 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 09:42:22,254 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 09:42:22,532 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 09:42:22,617 - logger_File -INFO - User Clicked Login Button
+2022-11-15 09:46:11,276 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 09:46:11,364 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 09:46:11,520 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 09:46:11,576 - logger_File -INFO - User Clicked Login Button
+2022-11-15 09:46:11,960 - logger_File -INFO - Account is Visible
+2022-11-15 11:02:26,768 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 11:02:26,806 - logger_File -INFO - logo is present
+2022-11-15 11:02:29,109 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 11:02:29,254 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 11:02:29,500 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 11:02:29,571 - logger_File -INFO - User Clicked Login Button
+2022-11-15 11:03:31,971 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 11:03:32,119 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 11:03:32,347 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 11:03:32,425 - logger_File -INFO - User Clicked Login Button
+2022-11-15 11:03:32,777 - logger_File -INFO - Account is Visible
+2022-11-15 11:05:29,802 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 11:05:29,839 - logger_File -INFO - logo is present
+2022-11-15 11:05:32,259 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 11:05:32,385 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 11:05:32,617 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 11:05:32,693 - logger_File -INFO - User Clicked Login Button
+2022-11-15 11:05:33,270 - logger_File -INFO - Account is Visible
+2022-11-15 11:05:33,353 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 11:05:33,521 - logger_File -INFO - User entered Name and phone Number
+2022-11-15 11:05:33,581 - logger_File -INFO - User Clicked on Update Button
+2022-11-15 11:05:33,600 - logger_File -INFO - User can see the Profiel 
+2022-11-15 11:08:43,888 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 11:08:44,067 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 11:08:44,338 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 11:08:44,432 - logger_File -INFO - User Clicked Login Button
+2022-11-15 11:08:44,796 - logger_File -INFO - Account is Visible
+2022-11-15 11:08:44,944 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 11:08:45,284 - logger_File -INFO - User Changed the Password
+2022-11-15 11:08:45,370 - logger_File -INFO - User Cliched the Button to Change Password
+2022-11-15 11:10:02,699 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 11:10:02,971 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 11:10:03,510 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 11:10:03,659 - logger_File -INFO - User Clicked Login Button
+2022-11-15 11:10:04,083 - logger_File -INFO - Account is Visible
+2022-11-15 11:10:04,350 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 11:10:04,892 - logger_File -INFO - User Changed the Password
+2022-11-15 11:10:05,023 - logger_File -INFO - User Cliched the Button to Change Password
+2022-11-15 11:38:02,254 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 11:38:02,366 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 11:38:02,582 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 11:38:02,651 - logger_File -INFO - User Clicked Login Button
+2022-11-15 11:38:02,974 - logger_File -INFO - Account is Visible
+2022-11-15 11:38:03,052 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 11:38:03,252 - logger_File -INFO - User Changed the Password
+2022-11-15 11:38:03,309 - logger_File -INFO - User Cliched the Button to Change Password
+2022-11-15 11:38:04,357 - logger_File -INFO - Messaged pop up SUCCESSFULLY CHANGED
+2022-11-15 11:50:07,135 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 11:50:07,252 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 11:50:07,423 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 11:50:07,476 - logger_File -INFO - User Clicked Login Button
+2022-11-15 11:52:07,780 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 11:52:07,917 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 11:52:08,139 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 11:52:08,212 - logger_File -INFO - User Clicked Login Button
+2022-11-15 11:52:08,539 - logger_File -INFO - Account is Visible
+2022-11-15 11:52:08,627 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 18:00:54,128 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 18:00:54,358 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 18:00:54,723 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 18:00:54,895 - logger_File -INFO - User Clicked Login Button
+2022-11-15 18:00:55,314 - logger_File -INFO - Account is Visible
+2022-11-15 18:00:55,551 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 18:11:45,960 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 18:11:46,174 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 18:11:46,507 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 18:11:46,622 - logger_File -INFO - User Clicked Login Button
+2022-11-15 18:11:47,036 - logger_File -INFO - Account is Visible
+2022-11-15 18:11:47,182 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 21:42:00,262 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 21:42:00,363 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 21:42:00,530 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 21:42:00,583 - logger_File -INFO - User Clicked Login Button
+2022-11-15 21:42:00,971 - logger_File -INFO - Account is Visible
+2022-11-15 21:42:01,052 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 22:07:14,408 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 22:07:14,498 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 22:07:14,656 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 22:07:14,710 - logger_File -INFO - User Clicked Login Button
+2022-11-15 22:07:15,110 - logger_File -INFO - Account is Visible
+2022-11-15 22:07:15,189 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 22:11:08,805 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 22:11:08,918 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 22:11:09,121 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 22:11:09,181 - logger_File -INFO - User Clicked Login Button
+2022-11-15 22:11:09,540 - logger_File -INFO - Account is Visible
+2022-11-15 22:11:09,648 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 22:12:59,636 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 22:12:59,757 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 22:12:59,919 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 22:12:59,976 - logger_File -INFO - User Clicked Login Button
+2022-11-15 22:13:00,367 - logger_File -INFO - Account is Visible
+2022-11-15 22:13:00,450 - logger_File -INFO - User Clicked on Account Option
+2022-11-15 22:14:27,436 - logger_File -INFO - React Appis equal toReact App
+2022-11-15 22:14:27,537 - logger_File -INFO - User Clicked Sign In Button
+2022-11-15 22:14:27,700 - logger_File -INFO - User Entered E-mail and Password
+2022-11-15 22:14:27,755 - logger_File -INFO - User Clicked Login Button
+2022-11-15 22:14:28,207 - logger_File -INFO - Account is Visible
+2022-11-15 22:14:28,283 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 01:53:01,766 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 01:53:01,855 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 01:53:02,016 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 01:53:02,069 - logger_File -INFO - User Clicked Login Button
+2022-11-16 01:53:02,447 - logger_File -INFO - Account is Visible
+2022-11-16 01:53:02,522 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 01:54:21,586 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 01:54:21,671 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 01:54:21,835 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 01:54:21,891 - logger_File -INFO - User Clicked Login Button
+2022-11-16 01:54:22,277 - logger_File -INFO - Account is Visible
+2022-11-16 01:54:22,353 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 09:11:04,475 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 09:11:04,616 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 09:11:04,847 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 09:11:04,924 - logger_File -INFO - User Clicked Login Button
+2022-11-16 09:11:05,294 - logger_File -INFO - Account is Visible
+2022-11-16 09:11:05,412 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 09:15:24,187 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 09:15:24,345 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 09:15:24,628 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 09:15:24,707 - logger_File -INFO - User Clicked Login Button
+2022-11-16 09:15:25,131 - logger_File -INFO - Account is Visible
+2022-11-16 09:15:25,259 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 09:17:22,542 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 09:17:22,704 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 09:17:22,973 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 09:17:23,058 - logger_File -INFO - User Clicked Login Button
+2022-11-16 09:17:23,438 - logger_File -INFO - Account is Visible
+2022-11-16 09:17:23,558 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 09:22:08,068 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 09:22:08,220 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 09:22:08,490 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 09:22:08,577 - logger_File -INFO - User Clicked Login Button
+2022-11-16 09:22:08,968 - logger_File -INFO - Account is Visible
+2022-11-16 09:22:09,080 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 09:28:56,722 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 09:28:56,857 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 09:28:57,058 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 09:28:57,121 - logger_File -INFO - User Clicked Login Button
+2022-11-16 09:28:57,491 - logger_File -INFO - Account is Visible
+2022-11-16 09:28:57,586 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 09:35:03,628 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 09:35:03,811 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 09:35:04,176 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 09:35:04,299 - logger_File -INFO - User Clicked Login Button
+2022-11-16 09:35:04,765 - logger_File -INFO - Account is Visible
+2022-11-16 09:35:04,915 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 09:36:41,917 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 09:36:42,058 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 09:36:42,297 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 09:36:42,357 - logger_File -INFO - User Clicked Login Button
+2022-11-16 09:36:42,774 - logger_File -INFO - Account is Visible
+2022-11-16 09:36:42,881 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 10:42:26,894 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 10:42:27,065 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 10:42:27,335 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 10:42:27,428 - logger_File -INFO - User Clicked Login Button
+2022-11-16 10:42:27,794 - logger_File -INFO - Account is Visible
+2022-11-16 10:42:27,915 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 10:49:27,650 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 10:49:27,859 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 10:49:28,151 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 10:49:28,257 - logger_File -INFO - User Clicked Login Button
+2022-11-16 10:49:28,617 - logger_File -INFO - Account is Visible
+2022-11-16 10:49:28,763 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 10:53:28,724 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 10:53:28,908 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 10:53:29,213 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 10:53:29,339 - logger_File -INFO - User Clicked Login Button
+2022-11-16 10:53:29,893 - logger_File -INFO - Account is Visible
+2022-11-16 10:53:30,046 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 10:53:33,691 - logger_File -INFO - User added his debit card information
+2022-11-16 10:53:33,814 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-16 11:23:32,444 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 11:23:32,645 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 11:23:32,930 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 11:23:33,025 - logger_File -INFO - User Clicked Login Button
+2022-11-16 11:23:33,392 - logger_File -INFO - Account is Visible
+2022-11-16 11:23:33,540 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 11:23:37,130 - logger_File -INFO - User added his debit card information
+2022-11-16 11:23:37,234 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-16 11:35:31,798 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 11:35:32,002 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 11:35:32,321 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 11:35:32,422 - logger_File -INFO - User Clicked Login Button
+2022-11-16 11:35:32,796 - logger_File -INFO - Account is Visible
+2022-11-16 11:35:32,950 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 11:35:33,557 - logger_File -INFO - User added his debit card information
+2022-11-16 11:35:33,663 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-16 11:49:47,669 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 11:49:47,881 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 11:49:48,227 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 11:49:48,346 - logger_File -INFO - User Clicked Login Button
+2022-11-16 11:49:48,728 - logger_File -INFO - Account is Visible
+2022-11-16 11:49:48,900 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 11:55:58,030 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 11:55:58,229 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 11:55:58,609 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 11:55:58,729 - logger_File -INFO - User Clicked Login Button
+2022-11-16 11:55:59,106 - logger_File -INFO - Account is Visible
+2022-11-16 11:55:59,281 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 22:20:02,167 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 22:20:02,444 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 22:20:02,866 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 22:20:02,974 - logger_File -INFO - User Clicked Login Button
+2022-11-16 22:20:03,514 - logger_File -INFO - Account is Visible
+2022-11-16 22:20:03,716 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 22:20:03,884 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-16 22:24:02,504 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 22:24:02,667 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 22:24:02,980 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 22:24:03,074 - logger_File -INFO - User Clicked Login Button
+2022-11-16 22:24:03,473 - logger_File -INFO - Account is Visible
+2022-11-16 22:24:03,614 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 22:24:03,755 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-16 22:28:20,725 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 22:28:20,905 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 22:28:21,225 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 22:28:21,326 - logger_File -INFO - User Clicked Login Button
+2022-11-16 22:28:21,684 - logger_File -INFO - Account is Visible
+2022-11-16 22:28:21,835 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 22:28:21,984 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-16 22:31:59,980 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 22:32:00,191 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 22:32:00,551 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 22:32:00,661 - logger_File -INFO - User Clicked Login Button
+2022-11-16 22:32:01,069 - logger_File -INFO - Account is Visible
+2022-11-16 22:32:01,248 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 22:32:01,415 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-16 22:35:31,839 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 22:35:32,026 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 22:35:32,285 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 22:35:32,371 - logger_File -INFO - User Clicked Login Button
+2022-11-16 22:35:32,736 - logger_File -INFO - Account is Visible
+2022-11-16 22:35:32,870 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 22:35:32,986 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-16 22:35:33,913 - logger_File -INFO - User Entered Required Information
+2022-11-16 22:35:34,033 - logger_File -INFO - User Clicked Add Button
+2022-11-16 22:35:34,797 - logger_File -INFO - Message Successfully Updated
+2022-11-16 22:37:27,535 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 22:37:27,730 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 22:37:28,037 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 22:37:28,148 - logger_File -INFO - User Clicked Login Button
+2022-11-16 22:37:28,580 - logger_File -INFO - Account is Visible
+2022-11-16 22:37:28,735 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 22:37:29,350 - logger_File -INFO - User added his debit card information
+2022-11-16 22:37:29,430 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-16 22:44:20,233 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 22:44:20,425 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 22:44:20,787 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 22:44:20,901 - logger_File -INFO - User Clicked Login Button
+2022-11-16 22:44:21,263 - logger_File -INFO - Account is Visible
+2022-11-16 22:44:21,447 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 22:44:21,866 - logger_File -INFO - User Changed the Password
+2022-11-16 22:44:21,976 - logger_File -INFO - User Cliched the Button to Change Password
+2022-11-16 22:44:22,982 - logger_File -INFO - Messaged pop up SUCCESSFULLY CHANGED
+2022-11-16 23:54:10,933 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 23:54:11,092 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 23:54:11,401 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 23:54:11,532 - logger_File -INFO - User Clicked Login Button
+2022-11-16 23:55:49,997 - logger_File -INFO - React Appis equal toReact App
+2022-11-16 23:55:50,245 - logger_File -INFO - User Clicked Sign In Button
+2022-11-16 23:55:50,611 - logger_File -INFO - User Entered E-mail and Password
+2022-11-16 23:55:50,733 - logger_File -INFO - User Clicked Login Button
+2022-11-16 23:55:51,143 - logger_File -INFO - Account is Visible
+2022-11-16 23:55:51,338 - logger_File -INFO - User Clicked on Account Option
+2022-11-16 23:55:52,070 - logger_File -INFO - User added his debit card information
+2022-11-16 23:55:52,178 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-16 23:55:53,136 - logger_File -INFO - User Added the Debit Card Information Successfully
+2022-11-17 00:02:19,543 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 00:02:19,799 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 00:02:20,130 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 00:02:20,248 - logger_File -INFO - User Clicked Login Button
+2022-11-17 00:02:20,629 - logger_File -INFO - Account is Visible
+2022-11-17 00:02:20,841 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 01:34:10,353 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 01:34:10,824 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 01:34:11,592 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 01:34:11,840 - logger_File -INFO - User Clicked Login Button
+2022-11-17 01:34:12,377 - logger_File -INFO - Account is Visible
+2022-11-17 01:34:12,866 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 01:39:46,478 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 01:39:46,958 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 01:39:47,726 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 01:39:47,963 - logger_File -INFO - User Clicked Login Button
+2022-11-17 01:39:48,424 - logger_File -INFO - Account is Visible
+2022-11-17 01:39:48,900 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 01:39:50,363 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-17 07:08:45,850 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 07:08:45,984 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 07:08:46,207 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 07:08:46,277 - logger_File -INFO - User Clicked Login Button
+2022-11-17 07:08:46,655 - logger_File -INFO - Account is Visible
+2022-11-17 07:08:46,771 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 07:08:47,259 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-17 07:49:26,709 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 07:49:26,827 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 07:49:27,018 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 07:49:27,097 - logger_File -INFO - User Clicked Login Button
+2022-11-17 07:49:27,492 - logger_File -INFO - Account is Visible
+2022-11-17 07:49:27,611 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 07:56:01,857 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 07:56:01,990 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 07:56:02,207 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 07:56:02,291 - logger_File -INFO - User Clicked Login Button
+2022-11-17 07:56:02,654 - logger_File -INFO - Account is Visible
+2022-11-17 07:56:02,774 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 08:16:20,582 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 08:16:20,730 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 08:16:20,989 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 08:16:21,072 - logger_File -INFO - User Clicked Login Button
+2022-11-17 08:16:21,425 - logger_File -INFO - Account is Visible
+2022-11-17 08:16:21,549 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 08:29:02,528 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 08:29:02,685 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 08:29:02,932 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 08:29:02,995 - logger_File -INFO - User Clicked Login Button
+2022-11-17 08:29:03,388 - logger_File -INFO - Account is Visible
+2022-11-17 08:29:03,500 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 08:56:50,785 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 08:56:50,963 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 08:56:51,242 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 08:56:51,336 - logger_File -INFO - User Clicked Login Button
+2022-11-17 08:56:51,741 - logger_File -INFO - Account is Visible
+2022-11-17 08:56:51,864 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 09:27:08,670 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 09:27:08,829 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 09:27:09,106 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 09:27:09,214 - logger_File -INFO - User Clicked Login Button
+2022-11-17 09:27:09,633 - logger_File -INFO - Account is Visible
+2022-11-17 09:27:09,818 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 19:19:12,984 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 19:19:13,162 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 19:19:13,494 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 19:19:13,598 - logger_File -INFO - User Clicked Login Button
+2022-11-17 19:19:14,013 - logger_File -INFO - Account is Visible
+2022-11-17 19:19:14,139 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 19:21:20,791 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 19:21:20,953 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 19:21:21,235 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 19:21:21,342 - logger_File -INFO - User Clicked Login Button
+2022-11-17 19:21:22,116 - logger_File -INFO - Account is Visible
+2022-11-17 19:21:22,324 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 19:21:23,076 - logger_File -INFO - User added his debit card information
+2022-11-17 19:21:23,200 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-17 19:21:24,109 - logger_File -INFO - User Added the Debit Card Information Successfully
+2022-11-17 19:22:25,633 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 19:22:25,790 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 19:22:26,060 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 19:22:26,150 - logger_File -INFO - User Clicked Login Button
+2022-11-17 19:22:27,335 - logger_File -INFO - Account is Visible
+2022-11-17 19:22:27,530 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 21:28:36,429 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 21:28:36,540 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 21:28:36,694 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 21:28:36,746 - logger_File -INFO - User Clicked Login Button
+2022-11-17 21:28:37,071 - logger_File -INFO - Account is Visible
+2022-11-17 21:28:37,147 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 21:28:37,534 - logger_File -INFO - User added his debit card information
+2022-11-17 21:28:37,594 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-17 21:49:31,178 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 21:49:31,278 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 21:49:31,434 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 21:49:31,486 - logger_File -INFO - User Clicked Login Button
+2022-11-17 21:49:31,878 - logger_File -INFO - Account is Visible
+2022-11-17 21:49:31,963 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 21:51:39,455 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 21:51:39,562 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 21:51:39,723 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 21:51:39,777 - logger_File -INFO - User Clicked Login Button
+2022-11-17 21:51:40,170 - logger_File -INFO - Account is Visible
+2022-11-17 21:51:40,245 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 22:06:53,290 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 22:06:53,386 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 22:06:53,544 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 22:06:53,597 - logger_File -INFO - User Clicked Login Button
+2022-11-17 22:06:54,124 - logger_File -INFO - Account is Visible
+2022-11-17 22:18:07,064 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 22:18:07,162 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 22:18:07,319 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 22:18:07,371 - logger_File -INFO - User Clicked Login Button
+2022-11-17 22:18:10,639 - logger_File -INFO - Account is Visible
+2022-11-17 22:18:10,743 - logger_File -INFO - User Clicked on Card
+2022-11-17 22:25:28,922 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 22:25:29,031 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 22:25:29,201 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 22:25:29,262 - logger_File -INFO - User Clicked Login Button
+2022-11-17 22:25:33,958 - logger_File -INFO - Account is Visible
+2022-11-17 22:25:34,053 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 22:25:34,132 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-17 22:25:34,724 - logger_File -INFO - User Entered Required Information
+2022-11-17 22:25:34,801 - logger_File -INFO - User Clicked Add Button
+2022-11-17 22:25:35,599 - logger_File -INFO - Message Successfully Updated
+2022-11-17 22:33:06,960 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 22:33:07,054 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 22:33:07,214 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 22:33:07,266 - logger_File -INFO - User Clicked Login Button
+2022-11-17 22:33:08,022 - logger_File -INFO - Account is Visible
+2022-11-17 22:33:08,103 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 22:39:58,226 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 22:39:58,326 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 22:39:58,494 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 22:39:58,550 - logger_File -INFO - User Clicked Login Button
+2022-11-17 22:39:59,076 - logger_File -INFO - Account is Visible
+2022-11-17 22:39:59,159 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 23:04:28,045 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 23:04:28,145 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 23:04:28,307 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 23:04:28,360 - logger_File -INFO - User Clicked Login Button
+2022-11-17 23:04:28,759 - logger_File -INFO - Account is Visible
+2022-11-17 23:04:28,852 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 23:04:29,302 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-17 23:09:07,945 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 23:09:08,051 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 23:09:08,213 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 23:09:08,270 - logger_File -INFO - User Clicked Login Button
+2022-11-17 23:09:08,656 - logger_File -INFO - Account is Visible
+2022-11-17 23:09:08,737 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 23:09:09,111 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-17 23:16:24,115 - logger_File -INFO - React Appis equal toReact App
+2022-11-17 23:16:24,262 - logger_File -INFO - User Clicked Sign In Button
+2022-11-17 23:16:24,520 - logger_File -INFO - User Entered E-mail and Password
+2022-11-17 23:16:24,602 - logger_File -INFO - User Clicked Login Button
+2022-11-17 23:16:24,994 - logger_File -INFO - Account is Visible
+2022-11-17 23:16:25,084 - logger_File -INFO - User Clicked on Account Option
+2022-11-17 23:16:25,596 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 11:46:24,038 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 11:46:24,133 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 11:46:24,300 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 11:46:24,352 - logger_File -INFO - User Clicked Login Button
+2022-11-18 11:46:24,745 - logger_File -INFO - Account is Visible
+2022-11-18 11:46:24,824 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 11:46:25,523 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 11:46:26,056 - logger_File -INFO - User Entered Required Information
+2022-11-18 11:48:32,651 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 11:48:32,749 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 11:48:32,909 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 11:48:32,963 - logger_File -INFO - User Clicked Login Button
+2022-11-18 11:48:33,349 - logger_File -INFO - Account is Visible
+2022-11-18 11:48:33,430 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 11:48:33,885 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 11:48:34,405 - logger_File -INFO - User Entered Required Information
+2022-11-18 11:50:06,925 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 11:50:07,050 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 11:50:07,217 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 11:50:07,270 - logger_File -INFO - User Clicked Login Button
+2022-11-18 11:50:07,655 - logger_File -INFO - Account is Visible
+2022-11-18 11:50:07,734 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 11:50:08,475 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 11:52:32,136 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 11:52:32,287 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 11:52:32,564 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 11:52:32,654 - logger_File -INFO - User Clicked Login Button
+2022-11-18 11:52:33,053 - logger_File -INFO - Account is Visible
+2022-11-18 11:52:33,161 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 11:52:33,593 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 11:55:10,085 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 11:55:10,261 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 11:55:10,576 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 11:55:10,674 - logger_File -INFO - User Clicked Login Button
+2022-11-18 11:55:11,777 - logger_File -INFO - Account is Visible
+2022-11-18 11:55:11,912 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 11:55:12,401 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 11:57:12,724 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 11:57:12,943 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 11:57:13,261 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 11:57:13,385 - logger_File -INFO - User Clicked Login Button
+2022-11-18 11:57:13,870 - logger_File -INFO - Account is Visible
+2022-11-18 11:57:14,062 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 11:57:14,351 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 11:59:53,199 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 11:59:53,333 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 11:59:53,560 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 11:59:53,629 - logger_File -INFO - User Clicked Login Button
+2022-11-18 11:59:54,036 - logger_File -INFO - Account is Visible
+2022-11-18 11:59:54,149 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 11:59:54,643 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 12:01:46,182 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 12:01:46,376 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 12:01:46,763 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 12:01:46,925 - logger_File -INFO - User Clicked Login Button
+2022-11-18 12:01:47,314 - logger_File -INFO - Account is Visible
+2022-11-18 12:01:47,502 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 12:01:48,131 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 12:07:38,261 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 12:07:38,463 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 12:07:38,740 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 12:07:38,850 - logger_File -INFO - User Clicked Login Button
+2022-11-18 12:07:39,382 - logger_File -INFO - Account is Visible
+2022-11-18 12:07:39,555 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 12:07:40,022 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 12:12:27,721 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 12:12:27,880 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 12:12:28,160 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 12:12:28,253 - logger_File -INFO - User Clicked Login Button
+2022-11-18 12:12:28,702 - logger_File -INFO - Account is Visible
+2022-11-18 12:12:28,814 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 12:12:29,156 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-18 12:15:05,608 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 12:15:05,794 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 12:15:06,029 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 12:15:06,121 - logger_File -INFO - User Clicked Login Button
+2022-11-18 12:15:06,519 - logger_File -INFO - Account is Visible
+2022-11-18 12:15:06,688 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 12:15:06,811 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-18 12:16:57,169 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 12:16:57,332 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 12:16:57,623 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 12:16:57,726 - logger_File -INFO - User Clicked Login Button
+2022-11-18 12:16:58,094 - logger_File -INFO - Account is Visible
+2022-11-18 12:16:58,230 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 12:16:58,347 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-18 12:16:59,224 - logger_File -INFO - User Entered Required Information
+2022-11-18 12:16:59,334 - logger_File -INFO - User Clicked Add Button
+2022-11-18 12:17:00,135 - logger_File -INFO - Message Successfully Updated
+2022-11-18 12:19:02,785 - logger_File -INFO - React Appis equal toReact App
+2022-11-18 12:19:02,958 - logger_File -INFO - User Clicked Sign In Button
+2022-11-18 12:19:03,230 - logger_File -INFO - User Entered E-mail and Password
+2022-11-18 12:19:03,327 - logger_File -INFO - User Clicked Login Button
+2022-11-18 12:19:03,719 - logger_File -INFO - Account is Visible
+2022-11-18 12:19:03,841 - logger_File -INFO - User Clicked on Account Option
+2022-11-18 12:19:04,192 - logger_File -INFO - User Clicked on Edit Address Option
+2022-11-20 17:00:33,894 - logger_File -INFO - React Appis equal toReact App
+2022-11-20 17:00:34,111 - logger_File -INFO - User Clicked Sign In Button
+2022-11-20 17:00:34,410 - logger_File -INFO - User Entered E-mail and Password
+2022-11-20 17:00:34,535 - logger_File -INFO - User Clicked Login Button
+2022-11-20 17:00:36,819 - logger_File -INFO - Account is Visible
+2022-11-20 17:00:37,014 - logger_File -INFO - User Clicked on Account Option
+2022-11-20 17:00:37,794 - logger_File -INFO - User added his debit card information
+2022-11-20 17:00:37,934 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-20 17:00:39,241 - logger_File -INFO - React Appis equal toReact App
+2022-11-20 17:00:39,449 - logger_File -INFO - User Clicked Sign In Button
+2022-11-20 17:00:39,732 - logger_File -INFO - User Entered E-mail and Password
+2022-11-20 17:00:39,837 - logger_File -INFO - User Clicked Login Button
+2022-11-20 17:00:41,236 - logger_File -INFO - User Added the Debit Card Information Successfully
+2022-11-20 17:00:47,917 - logger_File -INFO - Account is Visible
+2022-11-20 17:00:48,114 - logger_File -INFO - User Clicked on Account Option
+2022-11-20 17:00:48,927 - logger_File -INFO - User added his debit card information
+2022-11-20 17:00:49,059 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-20 17:29:14,616 - logger_File -INFO - React Appis equal toReact App
+2022-11-20 17:29:14,883 - logger_File -INFO - User Clicked Sign In Button
+2022-11-20 17:29:15,281 - logger_File -INFO - User Entered E-mail and Password
+2022-11-20 17:29:15,431 - logger_File -INFO - User Clicked Login Button
+2022-11-20 17:29:16,682 - logger_File -INFO - Account is Visible
+2022-11-20 17:29:16,902 - logger_File -INFO - User Clicked on Account Option
+2022-11-20 17:29:20,886 - logger_File -INFO - User Clicked Master Card Image
+2022-11-20 17:29:21,004 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-20 23:00:35,813 - logger_File -INFO - React Appis equal toReact App
+2022-11-20 23:00:36,066 - logger_File -INFO - User Clicked Sign In Button
+2022-11-20 23:00:36,425 - logger_File -INFO - User Entered E-mail and Password
+2022-11-20 23:00:36,594 - logger_File -INFO - User Clicked Login Button
+2022-11-20 23:00:36,974 - logger_File -INFO - Account is Visible
+2022-11-20 23:00:37,192 - logger_File -INFO - User Clicked on Account Option
+2022-11-20 23:00:37,878 - logger_File -INFO - User Clicked Master Card Image
+2022-11-20 23:00:38,023 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-20 23:15:03,700 - logger_File -INFO - React Appis equal toReact App
+2022-11-20 23:15:03,930 - logger_File -INFO - User Clicked Sign In Button
+2022-11-20 23:15:04,244 - logger_File -INFO - User Entered E-mail and Password
+2022-11-20 23:15:04,361 - logger_File -INFO - User Clicked Login Button
+2022-11-20 23:15:04,750 - logger_File -INFO - Account is Visible
+2022-11-20 23:15:04,966 - logger_File -INFO - User Clicked on Account Option
+2022-11-20 23:15:05,656 - logger_File -INFO - User Clicked Master Card Image
+2022-11-20 23:15:05,801 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-20 23:18:41,403 - logger_File -INFO - React Appis equal toReact App
+2022-11-20 23:18:41,606 - logger_File -INFO - User Clicked Sign In Button
+2022-11-20 23:18:41,944 - logger_File -INFO - User Entered E-mail and Password
+2022-11-20 23:18:42,055 - logger_File -INFO - User Clicked Login Button
+2022-11-20 23:18:42,468 - logger_File -INFO - Account is Visible
+2022-11-20 23:18:42,630 - logger_File -INFO - User Clicked on Account Option
+2022-11-20 23:18:42,753 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-20 23:18:43,710 - logger_File -INFO - User Entered Required Information
+2022-11-20 23:18:43,829 - logger_File -INFO - User Clicked Add Button
+2022-11-20 23:18:44,667 - logger_File -INFO - Message Successfully Updated
+2022-11-20 23:22:36,045 - logger_File -INFO - React Appis equal toReact App
+2022-11-20 23:22:36,248 - logger_File -INFO - User Clicked Sign In Button
+2022-11-20 23:22:36,585 - logger_File -INFO - User Entered E-mail and Password
+2022-11-20 23:22:36,691 - logger_File -INFO - User Clicked Login Button
+2022-11-20 23:22:37,076 - logger_File -INFO - Account is Visible
+2022-11-20 23:22:37,230 - logger_File -INFO - User Clicked on Account Option
+2022-11-20 23:22:37,852 - logger_File -INFO - User added his debit card information
+2022-11-20 23:22:37,952 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-20 23:22:38,789 - logger_File -INFO - User Added the Debit Card Information Successfully
+2022-11-20 23:33:45,499 - logger_File -INFO - React Appis equal toReact App
+2022-11-20 23:33:45,740 - logger_File -INFO - User Clicked Sign In Button
+2022-11-20 23:33:46,149 - logger_File -INFO - User Entered E-mail and Password
+2022-11-20 23:33:46,291 - logger_File -INFO - User Clicked Login Button
+2022-11-20 23:33:46,683 - logger_File -INFO - Account is Visible
+2022-11-20 23:33:46,892 - logger_File -INFO - User Clicked on Account Option
+2022-11-20 23:33:48,126 - logger_File -INFO - User Clicked Master Card Image
+2022-11-20 23:33:48,258 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-20 23:42:57,710 - logger_File -INFO - React Appis equal toReact App
+2022-11-20 23:42:57,999 - logger_File -INFO - User Clicked Sign In Button
+2022-11-20 23:42:58,409 - logger_File -INFO - User Entered E-mail and Password
+2022-11-20 23:42:58,548 - logger_File -INFO - User Clicked Login Button
+2022-11-20 23:42:59,007 - logger_File -INFO - Account is Visible
+2022-11-20 23:42:59,252 - logger_File -INFO - User Clicked on Account Option
+2022-11-20 23:42:59,501 - logger_File -INFO - User Clicked Master Card Image
+2022-11-20 23:42:59,643 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-20 23:46:54,197 - logger_File -INFO - React Appis equal toReact App
+2022-11-20 23:46:54,494 - logger_File -INFO - User Clicked Sign In Button
+2022-11-20 23:46:54,939 - logger_File -INFO - User Entered E-mail and Password
+2022-11-20 23:46:55,094 - logger_File -INFO - User Clicked Login Button
+2022-11-20 23:46:55,545 - logger_File -INFO - Account is Visible
+2022-11-20 23:46:55,789 - logger_File -INFO - User Clicked on Account Option
+2022-11-20 23:46:56,496 - logger_File -INFO - User Clicked Master Card Image
+2022-11-20 23:46:56,643 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-21 00:37:05,299 - logger_File -INFO - React Appis equal toReact App
+2022-11-21 00:37:05,420 - logger_File -INFO - User Clicked Sign In Button
+2022-11-21 00:37:05,597 - logger_File -INFO - User Entered E-mail and Password
+2022-11-21 00:37:05,656 - logger_File -INFO - User Clicked Login Button
+2022-11-21 00:37:06,071 - logger_File -INFO - Account is Visible
+2022-11-21 00:37:06,170 - logger_File -INFO - User Clicked on Card
+2022-11-21 00:44:56,755 - logger_File -INFO - React Appis equal toReact App
+2022-11-21 00:44:56,870 - logger_File -INFO - User Clicked Sign In Button
+2022-11-21 00:44:57,063 - logger_File -INFO - User Entered E-mail and Password
+2022-11-21 00:44:57,126 - logger_File -INFO - User Clicked Login Button
+2022-11-21 00:44:57,521 - logger_File -INFO - Account is Visible
+2022-11-21 00:44:57,603 - logger_File -INFO - User Clicked on Card
+2022-11-22 11:09:12,424 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 11:09:12,657 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 11:09:12,752 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 11:09:12,977 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 11:09:13,047 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 11:09:13,143 - logger_File -INFO - User Clicked Login Button
+2022-11-22 11:09:13,290 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 11:09:13,372 - logger_File -INFO - User Clicked Login Button
+2022-11-22 11:09:13,507 - logger_File -INFO - Account is Visible
+2022-11-22 11:09:13,650 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 11:09:13,772 - logger_File -INFO - Account is Visible
+2022-11-22 11:09:13,951 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 11:09:14,462 - logger_File -INFO - User added his debit card information
+2022-11-22 11:09:14,548 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-22 11:09:14,596 - logger_File -INFO - User added his debit card information
+2022-11-22 11:09:14,677 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-22 11:09:15,293 - logger_File -INFO - User Added the Debit Card Information Successfully
+2022-11-22 11:10:19,287 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 11:10:19,432 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 11:10:19,680 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 11:10:19,755 - logger_File -INFO - User Clicked Login Button
+2022-11-22 11:10:20,099 - logger_File -INFO - Account is Visible
+2022-11-22 11:10:20,187 - logger_File -INFO - User Clicked on Card
+2022-11-22 11:32:14,388 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 11:32:14,559 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 11:32:14,809 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 11:32:14,889 - logger_File -INFO - User Clicked Login Button
+2022-11-22 11:32:15,273 - logger_File -INFO - Account is Visible
+2022-11-22 11:46:58,437 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 11:46:58,612 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 11:46:58,868 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 11:46:58,949 - logger_File -INFO - User Clicked Login Button
+2022-11-22 11:46:59,320 - logger_File -INFO - Account is Visible
+2022-11-22 11:46:59,457 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 11:46:59,671 - logger_File -INFO - User Clicked on Card
+2022-11-22 11:47:31,719 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 11:47:31,873 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 11:47:32,136 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 11:47:32,217 - logger_File -INFO - User Clicked Login Button
+2022-11-22 11:47:32,582 - logger_File -INFO - Account is Visible
+2022-11-22 11:47:32,719 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 11:47:33,071 - logger_File -INFO - User Clicked on Card
+2022-11-22 11:49:34,415 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 11:49:34,596 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 11:49:34,879 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 11:49:34,964 - logger_File -INFO - User Clicked Login Button
+2022-11-22 11:49:35,337 - logger_File -INFO - Account is Visible
+2022-11-22 11:49:35,475 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 11:49:35,725 - logger_File -INFO - User Clicked on Card
+2022-11-22 11:49:35,809 - logger_File -INFO - User Clicked Remove to remove the card
+2022-11-22 11:49:35,833 - logger_File -INFO - Empty Card box is Displayed
+2022-11-22 12:00:41,260 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 12:00:41,448 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 12:00:41,758 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 12:00:41,862 - logger_File -INFO - User Clicked Login Button
+2022-11-22 12:00:42,233 - logger_File -INFO - Account is Visible
+2022-11-22 12:00:42,387 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 12:00:43,010 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 12:01:52,827 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 12:01:53,012 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 12:01:53,330 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 12:01:53,427 - logger_File -INFO - User Clicked Login Button
+2022-11-22 12:01:53,809 - logger_File -INFO - Account is Visible
+2022-11-22 12:01:53,958 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 12:01:54,573 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 12:01:54,648 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 12:04:12,711 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 12:04:12,917 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 12:04:13,233 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 12:04:13,334 - logger_File -INFO - User Clicked Login Button
+2022-11-22 12:04:13,731 - logger_File -INFO - Account is Visible
+2022-11-22 12:04:13,888 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 12:04:14,520 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 12:04:14,618 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 12:10:46,593 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 12:10:46,813 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 12:10:47,163 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 12:10:47,281 - logger_File -INFO - User Clicked Login Button
+2022-11-22 12:10:47,668 - logger_File -INFO - Account is Visible
+2022-11-22 12:10:47,835 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 12:10:48,566 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 12:10:48,676 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 12:10:49,262 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-22 12:10:49,355 - logger_File -INFO - User Clicked Update Card
+2022-11-22 12:33:27,860 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 12:33:28,114 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 12:33:28,464 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 12:33:28,589 - logger_File -INFO - User Clicked Login Button
+2022-11-22 12:33:28,973 - logger_File -INFO - Account is Visible
+2022-11-22 12:33:29,153 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 12:33:29,825 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 12:33:29,942 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 12:33:30,518 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-22 12:33:30,630 - logger_File -INFO - User Clicked Update Card
+2022-11-22 12:35:55,479 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 12:35:55,707 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 12:35:56,074 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 12:35:56,211 - logger_File -INFO - User Clicked Login Button
+2022-11-22 12:35:56,599 - logger_File -INFO - Account is Visible
+2022-11-22 12:35:56,778 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 12:35:57,424 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 12:35:57,552 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 12:35:58,121 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-22 12:35:58,221 - logger_File -INFO - User Clicked Update Card
+2022-11-22 12:45:56,027 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 12:45:56,265 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 12:45:56,717 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 12:45:56,855 - logger_File -INFO - User Clicked Login Button
+2022-11-22 12:45:57,252 - logger_File -INFO - Account is Visible
+2022-11-22 12:45:57,460 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 12:45:58,145 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 12:45:58,276 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 12:45:58,918 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-22 12:45:59,050 - logger_File -INFO - User Clicked Update Card
+2022-11-22 12:55:02,651 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 12:55:02,941 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 12:55:03,435 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 12:55:03,558 - logger_File -INFO - User Clicked Login Button
+2022-11-22 12:55:03,985 - logger_File -INFO - Account is Visible
+2022-11-22 12:55:04,233 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 13:04:02,115 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 13:04:02,416 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 13:04:02,942 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 13:04:03,095 - logger_File -INFO - User Clicked Login Button
+2022-11-22 13:04:03,533 - logger_File -INFO - Account is Visible
+2022-11-22 13:04:03,805 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 13:04:04,493 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 13:04:04,830 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 13:04:05,577 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-22 13:04:05,718 - logger_File -INFO - User Clicked Update Card
+2022-11-22 13:07:44,037 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 13:07:44,307 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 13:07:44,852 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 13:07:44,992 - logger_File -INFO - User Clicked Login Button
+2022-11-22 13:07:45,426 - logger_File -INFO - Account is Visible
+2022-11-22 13:07:45,688 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 13:07:46,364 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 13:07:47,008 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 13:07:47,649 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-22 13:07:47,787 - logger_File -INFO - User Clicked Update Card
+2022-11-22 13:19:19,397 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 13:19:19,693 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 13:19:20,203 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 13:19:20,344 - logger_File -INFO - User Clicked Login Button
+2022-11-22 13:19:20,740 - logger_File -INFO - Account is Visible
+2022-11-22 13:19:20,993 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 13:19:21,697 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 13:19:22,333 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 13:19:22,923 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-22 13:19:23,042 - logger_File -INFO - User Clicked Update Card
+2022-11-22 13:22:30,091 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 13:22:30,353 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 13:22:30,887 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 13:22:31,024 - logger_File -INFO - User Clicked Login Button
+2022-11-22 13:22:31,434 - logger_File -INFO - Account is Visible
+2022-11-22 13:22:31,676 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 13:22:32,369 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 13:22:33,017 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 13:22:33,587 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-22 13:22:33,713 - logger_File -INFO - User Clicked Update Card
+2022-11-22 13:25:42,951 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 13:25:43,232 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 13:25:43,729 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 13:25:43,879 - logger_File -INFO - User Clicked Login Button
+2022-11-22 13:25:44,300 - logger_File -INFO - Account is Visible
+2022-11-22 13:25:44,568 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 13:25:45,270 - logger_File -INFO - User Clicked Master Card Image
+2022-11-22 13:25:45,990 - logger_File -INFO - User Clicked on Edit Card Option
+2022-11-22 13:25:46,689 - logger_File -INFO - User Entered Required information to Edit the Card
+2022-11-22 13:25:46,838 - logger_File -INFO - User Clicked Update Card
+2022-11-22 13:46:42,157 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 13:46:42,318 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 13:46:42,576 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 13:46:42,656 - logger_File -INFO - User Clicked Login Button
+2022-11-22 13:46:43,054 - logger_File -INFO - Account is Visible
+2022-11-22 13:46:43,180 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 13:46:43,265 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-22 13:46:43,895 - logger_File -INFO - User Entered Required Information
+2022-11-22 13:46:44,002 - logger_File -INFO - User Clicked Add Button
+2022-11-22 13:46:44,752 - logger_File -INFO - Message Successfully Updated
+2022-11-22 13:55:42,861 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 13:55:43,021 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 13:55:43,259 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 13:55:43,331 - logger_File -INFO - User Clicked Login Button
+2022-11-22 13:55:43,713 - logger_File -INFO - Account is Visible
+2022-11-22 13:55:43,811 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 13:55:44,570 - logger_File -INFO - User Clicked on Edit Address Option and cleared the Values
+2022-11-22 14:15:56,239 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 14:15:56,380 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 14:15:56,616 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 14:15:56,688 - logger_File -INFO - User Clicked Login Button
+2022-11-22 14:15:57,100 - logger_File -INFO - Account is Visible
+2022-11-22 14:15:57,250 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 14:17:11,827 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 14:17:11,954 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 14:17:12,182 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 14:17:12,251 - logger_File -INFO - User Clicked Login Button
+2022-11-22 14:17:12,601 - logger_File -INFO - Account is Visible
+2022-11-22 14:17:12,685 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 14:26:23,051 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 14:26:23,205 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 14:26:23,479 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 14:26:23,570 - logger_File -INFO - User Clicked Login Button
+2022-11-22 14:26:23,909 - logger_File -INFO - Account is Visible
+2022-11-22 14:26:24,050 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 14:26:24,814 - logger_File -INFO - User Clicked on Edit Address Option and cleared the Values
+2022-11-22 14:28:20,280 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 14:28:20,402 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 14:28:20,642 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 14:28:20,712 - logger_File -INFO - User Clicked Login Button
+2022-11-22 14:28:21,052 - logger_File -INFO - Account is Visible
+2022-11-22 14:28:21,139 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 14:28:21,828 - logger_File -INFO - User Clicked on Edit Address Option and cleared the Values
+2022-11-22 14:28:22,317 - logger_File -INFO - User Entered Required Information
+2022-11-22 14:40:13,953 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 14:40:14,097 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 14:40:14,340 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 14:40:14,416 - logger_File -INFO - User Clicked Login Button
+2022-11-22 14:40:15,237 - logger_File -INFO - Account is Visible
+2022-11-22 14:40:15,351 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 14:40:16,326 - logger_File -INFO - User Clicked on Edit Address Option and cleared the Values
+2022-11-22 14:40:16,835 - logger_File -INFO - User Entered Required Information
+2022-11-22 14:40:16,929 - logger_File -INFO - User Clicked the Update Address Button
+2022-11-22 14:45:24,563 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 14:45:24,695 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 14:45:24,950 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 14:45:25,024 - logger_File -INFO - User Clicked Login Button
+2022-11-22 14:45:25,374 - logger_File -INFO - Account is Visible
+2022-11-22 14:45:25,500 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 14:45:26,224 - logger_File -INFO - User Clicked on Edit Address Option and cleared the Values
+2022-11-22 14:45:26,665 - logger_File -INFO - User Entered Required Information
+2022-11-22 14:45:26,746 - logger_File -INFO - User Clicked the Update Address Button
+2022-11-22 14:56:50,935 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 14:56:51,084 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 14:56:51,324 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 14:56:51,395 - logger_File -INFO - User Clicked Login Button
+2022-11-22 14:56:51,794 - logger_File -INFO - Account is Visible
+2022-11-22 14:56:51,910 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 14:56:52,639 - logger_File -INFO - User Clicked on Edit Address Option and cleared the Values
+2022-11-22 14:56:53,081 - logger_File -INFO - User Entered Required Information
+2022-11-22 14:56:53,153 - logger_File -INFO - User Clicked the Update Address Button
+2022-11-22 14:58:09,723 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 14:58:09,841 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 14:58:10,063 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 14:58:10,132 - logger_File -INFO - User Clicked Login Button
+2022-11-22 14:58:10,529 - logger_File -INFO - Account is Visible
+2022-11-22 14:58:10,621 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 14:58:11,329 - logger_File -INFO - User Clicked on Edit Address Option and cleared the Values
+2022-11-22 14:58:11,786 - logger_File -INFO - User Entered Required Information
+2022-11-22 14:58:11,865 - logger_File -INFO - User Clicked the Update Address Button
+2022-11-22 15:02:55,765 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 15:02:55,941 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 15:02:56,201 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 15:02:56,292 - logger_File -INFO - User Clicked Login Button
+2022-11-22 15:02:56,660 - logger_File -INFO - Account is Visible
+2022-11-22 15:02:56,798 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 15:02:57,530 - logger_File -INFO - User Clicked on Edit Address Option and cleared the Values
+2022-11-22 15:02:57,969 - logger_File -INFO - User Entered Required Information
+2022-11-22 15:02:58,034 - logger_File -INFO - User Clicked the Update Address Button
+2022-11-22 15:02:58,770 - logger_File -INFO - updated Successefully
+2022-11-22 15:58:49,472 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 15:58:49,620 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 15:58:49,899 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 15:58:50,001 - logger_File -INFO - User Clicked Login Button
+2022-11-22 15:58:50,410 - logger_File -INFO - Account is Visible
+2022-11-22 15:58:50,559 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 16:18:25,423 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 16:18:25,616 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 16:18:25,953 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 16:18:26,099 - logger_File -INFO - User Clicked Login Button
+2022-11-22 16:18:26,475 - logger_File -INFO - Account is Visible
+2022-11-22 16:18:26,631 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 16:18:26,769 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-22 16:18:27,773 - logger_File -INFO - User Entered Required Information
+2022-11-22 16:18:27,915 - logger_File -INFO - User Clicked Add Button
+2022-11-22 16:20:00,856 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 16:20:01,010 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 16:20:01,309 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 16:20:01,461 - logger_File -INFO - User Clicked Login Button
+2022-11-22 16:20:02,051 - logger_File -INFO - Account is Visible
+2022-11-22 16:20:02,255 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 16:20:03,495 - logger_File -INFO - User Clicked on Remove Card
+2022-11-22 16:20:27,524 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 16:20:27,713 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 16:20:28,133 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 16:20:28,270 - logger_File -INFO - User Clicked Login Button
+2022-11-22 16:20:28,749 - logger_File -INFO - Account is Visible
+2022-11-22 16:20:28,905 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 16:20:29,951 - logger_File -INFO - User Clicked on Remove Card
+2022-11-22 17:35:46,719 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 17:35:47,017 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 17:35:47,509 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 17:35:47,652 - logger_File -INFO - User Clicked Login Button
+2022-11-22 17:35:48,089 - logger_File -INFO - Account is Visible
+2022-11-22 17:35:48,336 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 17:35:48,528 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-22 17:35:50,099 - logger_File -INFO - User Entered Required Information
+2022-11-22 17:35:50,392 - logger_File -INFO - User Clicked Add Button
+2022-11-22 17:41:57,129 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 17:41:57,406 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 17:41:57,963 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 17:41:58,122 - logger_File -INFO - User Clicked Login Button
+2022-11-22 17:41:58,632 - logger_File -INFO - Account is Visible
+2022-11-22 17:41:58,883 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 17:41:59,078 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-22 17:42:00,654 - logger_File -INFO - User Entered Required Information
+2022-11-22 17:42:00,925 - logger_File -INFO - User Clicked Add Button
+2022-11-22 17:44:44,598 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 17:44:44,906 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 17:44:45,380 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 17:44:45,538 - logger_File -INFO - User Clicked Login Button
+2022-11-22 17:44:46,017 - logger_File -INFO - Account is Visible
+2022-11-22 17:44:46,303 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 17:44:46,594 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-22 17:44:48,169 - logger_File -INFO - User Entered Required Information
+2022-11-22 17:44:48,435 - logger_File -INFO - User Clicked Add Button
+2022-11-22 17:46:28,279 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 17:46:28,634 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 17:46:29,229 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 17:46:29,383 - logger_File -INFO - User Clicked Login Button
+2022-11-22 17:46:29,906 - logger_File -INFO - Account is Visible
+2022-11-22 17:46:30,171 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 17:46:30,423 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-22 17:46:32,147 - logger_File -INFO - User Entered Required Information
+2022-11-22 17:46:32,397 - logger_File -INFO - User Clicked Add Button
+2022-11-22 17:47:29,874 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 17:47:30,219 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 17:47:30,796 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 17:47:30,950 - logger_File -INFO - User Clicked Login Button
+2022-11-22 17:47:31,656 - logger_File -INFO - Account is Visible
+2022-11-22 17:47:31,932 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 17:47:32,178 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-22 17:47:33,832 - logger_File -INFO - User Entered Required Information
+2022-11-22 17:47:34,033 - logger_File -INFO - User Clicked Add Button
+2022-11-22 17:51:22,792 - logger_File -INFO - React Appis equal toReact App
+2022-11-22 17:51:23,087 - logger_File -INFO - User Clicked Sign In Button
+2022-11-22 17:51:23,685 - logger_File -INFO - User Entered E-mail and Password
+2022-11-22 17:51:23,866 - logger_File -INFO - User Clicked Login Button
+2022-11-22 17:51:27,786 - logger_File -INFO - Account is Visible
+2022-11-22 17:51:28,050 - logger_File -INFO - User Clicked on Account Option
+2022-11-22 17:51:28,242 - logger_File -INFO - User Clidk On Add Addrees I-con
+2022-11-22 17:51:29,883 - logger_File -INFO - User Entered Required Information
+2022-11-22 17:51:30,132 - logger_File -INFO - User Clicked Add Button
+2022-11-22 17:51:31,358 - logger_File -INFO - Message Successfully Updated
+2022-11-22 19:11:26,368 - logger_File -INFO - User See both Title are Matching
+2022-11-22 19:29:46,768 - logger_File -INFO - User See both Title are Matching
+2022-11-23 10:55:40,013 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:01:11,012 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:01:11,185 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:01:11,187 - logger_File -INFO - User Can See All Shopping Section Appear on Side Bar
+2022-11-23 11:33:51,118 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:33:51,228 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:33:51,374 - logger_File -INFO - Sidebar Shop Department Sections are Visible to th User
+2022-11-23 11:39:10,794 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:39:10,914 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:39:13,541 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:39:13,683 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:39:16,269 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:39:16,418 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:39:19,098 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:39:19,223 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:39:21,884 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:39:22,034 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:52:36,139 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:52:36,302 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:52:38,906 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:52:39,068 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:52:41,752 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:52:41,935 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:52:44,715 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:52:44,857 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:52:47,758 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:52:48,008 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:56:13,139 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:56:13,312 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:56:16,069 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:56:16,207 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:56:18,842 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:56:19,003 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:56:21,663 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:56:21,834 - logger_File -INFO - User Clicked on all Section
+2022-11-23 11:56:24,576 - logger_File -INFO - User See both Title are Matching
+2022-11-23 11:56:24,742 - logger_File -INFO - User Clicked on all Section
+2022-11-23 12:49:37,058 - logger_File -INFO - User See both Title are Matching
+2022-11-23 12:49:37,250 - logger_File -INFO - User Clicked Sign In Button
+2022-11-23 12:49:37,592 - logger_File -INFO - User Entered E-mail and Password
+2022-11-23 12:52:12,040 - logger_File -INFO - User See both Title are Matching
+2022-11-23 12:52:12,270 - logger_File -INFO - User Clicked Sign In Button
+2022-11-23 12:52:12,621 - logger_File -INFO - User Entered E-mail and Password
+2022-11-23 12:56:09,120 - logger_File -INFO - User See both Title are Matching
+2022-11-23 12:56:09,400 - logger_File -INFO - User Clicked Sign In Button
+2022-11-23 12:56:09,823 - logger_File -INFO - User Entered E-mail and Password
+2022-11-23 12:56:09,953 - logger_File -INFO - User Clicked Login Button
+2022-11-23 12:57:58,092 - logger_File -INFO - User See both Title are Matching
+2022-11-23 12:57:58,387 - logger_File -INFO - User Clicked Sign In Button
+2022-11-23 12:57:58,822 - logger_File -INFO - User Entered E-mail and Password
+2022-11-23 12:57:58,939 - logger_File -INFO - User Clicked Login Button
+2022-11-23 12:57:59,335 - logger_File -INFO - Account is Visible
+2022-11-23 13:31:34,647 - logger_File -INFO - User See both Title are Matching
+2022-11-23 13:31:34,952 - logger_File -INFO - User Clicked Sign In Button
+2022-11-23 13:31:35,486 - logger_File -INFO - User Entered E-mail and Password
+2022-11-23 13:31:35,634 - logger_File -INFO - User Clicked Login Button
+2022-11-23 13:31:36,039 - logger_File -INFO - Account is Visible
+2022-11-23 13:33:54,561 - logger_File -INFO - User See both Title are Matching
+2022-11-23 13:33:54,891 - logger_File -INFO - User Clicked Sign In Button
+2022-11-23 13:33:55,450 - logger_File -INFO - User Entered E-mail and Password
+2022-11-23 13:33:55,603 - logger_File -INFO - User Clicked Login Button
+2022-11-23 13:33:56,018 - logger_File -INFO - Account is Visible
+2022-11-23 14:15:49,212 - logger_File -INFO - User See both Title are Matching
+2022-11-23 14:15:49,950 - logger_File -INFO - User Clicked Sign In Button
+2022-11-23 14:15:50,700 - logger_File -INFO - User Entered E-mail and Password
+2022-11-23 14:15:50,957 - logger_File -INFO - User Clicked Login Button
+2022-11-23 14:15:51,385 - logger_File -INFO - Account is Visible
+2022-11-23 14:15:51,711 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-23 14:15:52,122 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-23 14:15:52,361 - logger_File -INFO - User Cliked Search Button
+2022-11-23 14:15:52,847 - logger_File -INFO - User Clicked on the Item
+2022-11-23 14:15:53,561 - logger_File -INFO - User Selected Item Quatntity
+2022-11-23 14:15:53,818 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-23 14:15:53,955 - logger_File -INFO - User Can See The Quantity are added in the Cart
+2022-11-23 22:44:42,229 - logger_File -INFO - User See both Title are Matching
+2022-11-23 22:44:42,354 - logger_File -INFO - User Clicked on all Section
+2022-11-23 22:44:46,914 - logger_File -INFO - User See both Title are Matching
+2022-11-23 22:44:47,026 - logger_File -INFO - User Clicked on all Section
+2022-11-23 22:44:54,374 - logger_File -INFO - User See both Title are Matching
+2022-11-23 22:44:54,468 - logger_File -INFO - User Clicked on all Section
+2022-11-23 22:44:58,841 - logger_File -INFO - User See both Title are Matching
+2022-11-23 22:44:58,949 - logger_File -INFO - User Clicked on all Section
+2022-11-23 22:45:02,375 - logger_File -INFO - User See both Title are Matching
+2022-11-23 22:45:02,493 - logger_File -INFO - User Clicked on all Section
+2022-11-23 22:48:51,989 - logger_File -INFO - User See both Title are Matching
+2022-11-23 22:48:52,089 - logger_File -INFO - User Clicked on all Section
+2022-11-23 22:48:55,319 - logger_File -INFO - User See both Title are Matching
+2022-11-23 22:48:55,440 - logger_File -INFO - User Clicked on all Section
+2022-11-23 22:48:58,269 - logger_File -INFO - User See both Title are Matching
+2022-11-23 22:48:58,395 - logger_File -INFO - User Clicked on all Section
+2022-11-23 22:49:01,379 - logger_File -INFO - User See both Title are Matching
+2022-11-23 22:49:01,496 - logger_File -INFO - User Clicked on all Section
+2022-11-23 22:49:04,434 - logger_File -INFO - User See both Title are Matching
+2022-11-23 22:49:04,565 - logger_File -INFO - User Clicked on all Section
+2022-11-23 23:27:40,045 - logger_File -INFO - User See both Title are Matching
+2022-11-23 23:27:40,159 - logger_File -INFO - User Clicked on all Section
+2022-11-23 23:27:40,188 - logger_File -INFO - User is DepartmentSection
+2022-11-23 23:27:42,801 - logger_File -INFO - User See both Title are Matching
+2022-11-23 23:27:42,900 - logger_File -INFO - User Clicked on all Section
+2022-11-23 23:27:42,931 - logger_File -INFO - User is DepartmentSection
+2022-11-23 23:27:45,790 - logger_File -INFO - User See both Title are Matching
+2022-11-23 23:27:45,884 - logger_File -INFO - User Clicked on all Section
+2022-11-23 23:27:45,921 - logger_File -INFO - User is DepartmentSection
+2022-11-23 23:27:49,788 - logger_File -INFO - User See both Title are Matching
+2022-11-23 23:27:49,876 - logger_File -INFO - User Clicked on all Section
+2022-11-23 23:27:49,905 - logger_File -INFO - User is DepartmentSection
+2022-11-23 23:27:54,263 - logger_File -INFO - User See both Title are Matching
+2022-11-23 23:27:54,339 - logger_File -INFO - User Clicked on all Section
+2022-11-23 23:27:54,367 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:10:40,723 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:10:40,812 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:10:40,836 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:11:07,779 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:11:07,874 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:11:07,899 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:11:31,336 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:11:31,430 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:11:31,456 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:11:57,440 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:11:57,518 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:11:57,542 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:12:23,187 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:12:23,279 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:12:23,302 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:18:51,737 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:18:52,022 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:18:52,094 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:18:55,851 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:18:56,138 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:18:56,204 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:19:20,818 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:19:21,034 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:19:21,089 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:19:45,839 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:19:46,037 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:19:46,092 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:20:13,588 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:20:13,722 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:20:13,768 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:21:54,014 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:21:54,088 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:21:54,112 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:21:56,963 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:21:57,212 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:21:57,281 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:22:20,923 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:22:21,020 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:22:21,050 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:22:44,394 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:22:44,476 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:22:44,504 - logger_File -INFO - User is DepartmentSection
+2022-11-24 00:23:07,892 - logger_File -INFO - User See both Title are Matching
+2022-11-24 00:23:07,982 - logger_File -INFO - User Clicked on all Section
+2022-11-24 00:23:08,012 - logger_File -INFO - User is DepartmentSection
+2022-11-24 12:00:10,107 - logger_File -INFO - User See both Title are Matching
+2022-11-24 12:00:10,330 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 12:00:10,626 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 12:00:10,755 - logger_File -INFO - User Clicked Login Button
+2022-11-24 12:00:11,531 - logger_File -INFO - Account is Visible
+2022-11-24 12:00:11,658 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 12:00:11,805 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 12:00:11,927 - logger_File -INFO - User Cliked Search Button
+2022-11-24 12:00:12,298 - logger_File -INFO - User Clicked on the Item
+2022-11-24 12:00:12,841 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 12:00:12,954 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 12:00:13,017 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 12:05:47,514 - logger_File -INFO - User See both Title are Matching
+2022-11-24 12:06:09,558 - logger_File -INFO - User See both Title are Matching
+2022-11-24 12:06:09,688 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 12:06:09,881 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 12:06:09,949 - logger_File -INFO - User Clicked Login Button
+2022-11-24 12:06:11,276 - logger_File -INFO - Account is Visible
+2022-11-24 12:06:11,356 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 12:06:11,464 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 12:06:11,516 - logger_File -INFO - User Cliked Search Button
+2022-11-24 12:06:12,535 - logger_File -INFO - User Clicked on the Item
+2022-11-24 12:06:12,877 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 12:06:12,963 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 12:07:09,339 - logger_File -INFO - User See both Title are Matching
+2022-11-24 12:07:09,487 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 12:07:09,745 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 12:07:09,825 - logger_File -INFO - User Clicked Login Button
+2022-11-24 12:07:11,923 - logger_File -INFO - Account is Visible
+2022-11-24 12:07:12,053 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 12:07:12,212 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 12:07:12,334 - logger_File -INFO - User Cliked Search Button
+2022-11-24 12:07:12,646 - logger_File -INFO - User Clicked on the Item
+2022-11-24 12:07:13,022 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 12:07:13,135 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 12:07:13,523 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 12:13:01,117 - logger_File -INFO - User See both Title are Matching
+2022-11-24 12:13:01,329 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 12:13:01,615 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 12:14:40,029 - logger_File -INFO - User See both Title are Matching
+2022-11-24 12:14:40,157 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 12:14:40,377 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 12:14:40,443 - logger_File -INFO - User Clicked Login Button
+2022-11-24 12:14:40,820 - logger_File -INFO - Account is Visible
+2022-11-24 12:14:40,924 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 12:14:41,049 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 12:14:41,149 - logger_File -INFO - User Cliked Search Button
+2022-11-24 12:17:14,832 - logger_File -INFO - User See both Title are Matching
+2022-11-24 12:17:15,030 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 12:17:15,343 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 12:17:15,463 - logger_File -INFO - User Clicked Login Button
+2022-11-24 12:17:15,880 - logger_File -INFO - Account is Visible
+2022-11-24 12:17:16,009 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 12:17:16,174 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 12:17:16,286 - logger_File -INFO - User Cliked Search Button
+2022-11-24 12:23:23,690 - logger_File -INFO - User See both Title are Matching
+2022-11-24 12:23:23,805 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 12:23:24,011 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 12:23:24,086 - logger_File -INFO - User Clicked Login Button
+2022-11-24 12:23:24,789 - logger_File -INFO - Account is Visible
+2022-11-24 12:23:24,858 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 12:23:24,949 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 12:23:25,027 - logger_File -INFO - User Cliked Search Button
+2022-11-24 12:23:25,747 - logger_File -INFO - User Clicked on the Item
+2022-11-24 12:35:19,280 - logger_File -INFO - User See both Title are Matching
+2022-11-24 12:35:19,421 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 12:35:19,682 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 12:35:19,745 - logger_File -INFO - User Clicked Login Button
+2022-11-24 12:35:20,542 - logger_File -INFO - Account is Visible
+2022-11-24 12:35:20,622 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 12:35:20,749 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 12:35:20,809 - logger_File -INFO - User Cliked Search Button
+2022-11-24 12:35:21,150 - logger_File -INFO - User Clicked on the Item
+2022-11-24 12:35:21,546 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 12:35:21,621 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 12:35:21,664 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 13:24:14,481 - logger_File -INFO - User See both Title are Matching
+2022-11-24 13:24:14,628 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 13:24:14,897 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 13:24:14,988 - logger_File -INFO - User Clicked Login Button
+2022-11-24 13:24:15,385 - logger_File -INFO - Account is Visible
+2022-11-24 13:24:15,482 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 13:24:15,628 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 13:24:15,741 - logger_File -INFO - User Cliked Search Button
+2022-11-24 13:24:16,392 - logger_File -INFO - User Clicked on the Item
+2022-11-24 13:24:17,304 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 13:24:17,416 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 13:24:17,485 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 13:24:17,632 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 13:24:17,778 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 13:24:17,938 - logger_File -INFO - User Clicked to add New Address
+2022-11-24 13:32:04,445 - logger_File -INFO - User See both Title are Matching
+2022-11-24 13:32:04,606 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 13:32:04,870 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 13:32:04,992 - logger_File -INFO - User Clicked Login Button
+2022-11-24 13:32:05,395 - logger_File -INFO - Account is Visible
+2022-11-24 13:32:05,519 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 13:32:05,672 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 13:32:05,797 - logger_File -INFO - User Cliked Search Button
+2022-11-24 13:32:06,351 - logger_File -INFO - User Clicked on the Item
+2022-11-24 13:32:07,204 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 13:32:07,332 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 13:33:38,016 - logger_File -INFO - User See both Title are Matching
+2022-11-24 13:33:38,201 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 13:33:38,496 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 13:33:38,610 - logger_File -INFO - User Clicked Login Button
+2022-11-24 13:33:39,256 - logger_File -INFO - Account is Visible
+2022-11-24 13:33:39,374 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 13:33:39,536 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 13:33:39,646 - logger_File -INFO - User Cliked Search Button
+2022-11-24 13:33:40,397 - logger_File -INFO - User Clicked on the Item
+2022-11-24 13:33:40,887 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 13:33:41,010 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 13:33:41,838 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 13:33:41,986 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 13:33:42,136 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 13:33:42,301 - logger_File -INFO - User Clicked to add New Address
+2022-11-24 13:36:29,572 - logger_File -INFO - User See both Title are Matching
+2022-11-24 13:36:29,730 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 13:36:29,997 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 13:36:30,102 - logger_File -INFO - User Clicked Login Button
+2022-11-24 13:36:30,695 - logger_File -INFO - Account is Visible
+2022-11-24 13:36:30,806 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 13:36:30,968 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 13:36:31,092 - logger_File -INFO - User Cliked Search Button
+2022-11-24 13:36:31,817 - logger_File -INFO - User Clicked on the Item
+2022-11-24 13:36:32,307 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 13:36:32,418 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 13:36:32,478 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 13:36:32,613 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 13:36:32,754 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 13:36:32,899 - logger_File -INFO - User Clicked to add New Address
+2022-11-24 13:36:34,056 - logger_File -INFO - User Entered Required Information
+2022-11-24 13:36:34,235 - logger_File -INFO - User Clicked Add Button
+2022-11-24 13:38:20,445 - logger_File -INFO - User See both Title are Matching
+2022-11-24 13:38:20,661 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 13:38:20,950 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 13:38:21,064 - logger_File -INFO - User Clicked Login Button
+2022-11-24 13:38:22,735 - logger_File -INFO - Account is Visible
+2022-11-24 13:38:22,876 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 13:38:23,069 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 13:38:23,203 - logger_File -INFO - User Cliked Search Button
+2022-11-24 13:38:23,883 - logger_File -INFO - User Clicked on the Item
+2022-11-24 13:38:24,501 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 13:38:24,617 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 13:38:25,258 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 13:38:25,402 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 13:38:25,534 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 13:38:25,686 - logger_File -INFO - User Clicked to add New Address
+2022-11-24 13:38:26,815 - logger_File -INFO - User Entered Required Information
+2022-11-24 13:38:27,011 - logger_File -INFO - User Clicked Add Button
+2022-11-24 14:35:18,781 - logger_File -INFO - User See both Title are Matching
+2022-11-24 14:35:19,021 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 14:35:19,412 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 14:35:19,565 - logger_File -INFO - User Clicked Login Button
+2022-11-24 14:35:20,000 - logger_File -INFO - Account is Visible
+2022-11-24 14:35:20,158 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 14:35:20,390 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 14:35:20,535 - logger_File -INFO - User Cliked Search Button
+2022-11-24 14:35:21,287 - logger_File -INFO - User Clicked on the Item
+2022-11-24 14:35:21,760 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 14:35:21,897 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 14:35:22,235 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 14:35:22,396 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 14:35:22,549 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 14:35:22,719 - logger_File -INFO - User Clicked to add New Address
+2022-11-24 14:35:23,998 - logger_File -INFO - User Entered Required Information
+2022-11-24 14:35:24,191 - logger_File -INFO - User Clicked Add Button
+2022-11-24 14:35:24,242 - logger_File -INFO - User Clicked to Add Payment Card
+2022-11-24 14:35:24,963 - logger_File -INFO - User added his debit card information
+2022-11-24 14:35:25,107 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-24 14:35:25,804 - logger_File -INFO - User Clicked on Place Order
+2022-11-24 14:41:34,947 - logger_File -INFO - User See both Title are Matching
+2022-11-24 14:41:35,180 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 14:41:35,594 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 14:41:35,735 - logger_File -INFO - User Clicked Login Button
+2022-11-24 14:41:36,152 - logger_File -INFO - Account is Visible
+2022-11-24 14:41:36,283 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 14:41:36,468 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 14:41:36,603 - logger_File -INFO - User Cliked Search Button
+2022-11-24 14:41:37,114 - logger_File -INFO - User Clicked on the Item
+2022-11-24 14:41:37,531 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 14:41:37,681 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 14:41:38,083 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 14:41:38,240 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 14:41:38,401 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 14:41:38,568 - logger_File -INFO - User Clicked to add New Address
+2022-11-24 14:41:39,848 - logger_File -INFO - User Entered Required Information
+2022-11-24 14:41:40,030 - logger_File -INFO - User Clicked Add Button
+2022-11-24 14:41:40,081 - logger_File -INFO - User Clicked to Add Payment Card
+2022-11-24 14:41:40,851 - logger_File -INFO - User added his debit card information
+2022-11-24 14:41:40,998 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-24 14:41:42,282 - logger_File -INFO - User Clicked on Place Order
+2022-11-24 14:41:43,015 - logger_File -INFO - User See The Message Order Placed Successfully
+2022-11-24 18:06:20,069 - logger_File -INFO - User See both Title are Matching
+2022-11-24 18:06:20,179 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 18:06:20,335 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 18:06:20,391 - logger_File -INFO - User Clicked Login Button
+2022-11-24 18:06:21,089 - logger_File -INFO - Account is Visible
+2022-11-24 18:06:21,144 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 18:06:21,204 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 18:06:21,258 - logger_File -INFO - User Cliked Search Button
+2022-11-24 18:11:59,549 - logger_File -INFO - User See both Title are Matching
+2022-11-24 18:11:59,703 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 18:11:59,959 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 18:12:00,040 - logger_File -INFO - User Clicked Login Button
+2022-11-24 18:12:00,503 - logger_File -INFO - Account is Visible
+2022-11-24 18:12:00,563 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 18:12:00,636 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 18:12:00,699 - logger_File -INFO - User Cliked Search Button
+2022-11-24 18:15:03,636 - logger_File -INFO - User See both Title are Matching
+2022-11-24 18:15:03,749 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 18:15:03,913 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 18:15:03,970 - logger_File -INFO - User Clicked Login Button
+2022-11-24 18:15:04,512 - logger_File -INFO - Account is Visible
+2022-11-24 18:15:04,578 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 18:15:04,661 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 18:15:04,726 - logger_File -INFO - User Cliked Search Button
+2022-11-24 18:15:05,350 - logger_File -INFO - User Clicked on the Item
+2022-11-24 18:15:05,659 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 18:15:05,720 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 18:15:06,001 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 18:15:06,071 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 18:15:06,142 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 18:15:06,221 - logger_File -INFO - User Clicked to add New Address
+2022-11-24 18:15:06,917 - logger_File -INFO - User Entered Required Information
+2022-11-24 18:15:07,012 - logger_File -INFO - User Clicked Add Button
+2022-11-24 18:15:07,036 - logger_File -INFO - User Clicked to Add Payment Card
+2022-11-24 18:15:07,443 - logger_File -INFO - User added his debit card information
+2022-11-24 18:15:07,521 - logger_File -INFO - User clicked on ADD CARD BUTTON
+2022-11-24 18:15:08,138 - logger_File -INFO - User Clicked on Place Order
+2022-11-24 18:15:08,681 - logger_File -INFO - User See The Message Order Placed Successfully
+2022-11-24 18:18:07,954 - logger_File -INFO - User See both Title are Matching
+2022-11-24 18:18:08,092 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 18:18:08,322 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 18:18:08,384 - logger_File -INFO - User Clicked Login Button
+2022-11-24 18:18:08,788 - logger_File -INFO - Account is Visible
+2022-11-24 18:18:08,844 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 18:18:08,912 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 18:18:08,966 - logger_File -INFO - User Cliked Search Button
+2022-11-24 18:25:48,615 - logger_File -INFO - User See both Title are Matching
+2022-11-24 18:25:48,779 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 18:25:49,042 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 18:25:49,127 - logger_File -INFO - User Clicked Login Button
+2022-11-24 18:25:49,523 - logger_File -INFO - Account is Visible
+2022-11-24 18:38:46,422 - logger_File -INFO - User See both Title are Matching
+2022-11-24 18:38:46,552 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 18:38:46,720 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 18:38:46,772 - logger_File -INFO - User Clicked Login Button
+2022-11-24 18:38:47,305 - logger_File -INFO - Account is Visible
+2022-11-24 18:38:47,362 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 18:38:47,434 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 18:38:47,487 - logger_File -INFO - User Cliked Search Button
+2022-11-24 18:43:31,523 - logger_File -INFO - User See both Title are Matching
+2022-11-24 18:43:31,658 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 18:43:31,887 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 18:43:31,941 - logger_File -INFO - User Clicked Login Button
+2022-11-24 18:43:32,322 - logger_File -INFO - Account is Visible
+2022-11-24 18:43:32,382 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 18:43:32,449 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 18:43:32,504 - logger_File -INFO - User Cliked Search Button
+2022-11-24 18:46:56,766 - logger_File -INFO - User See both Title are Matching
+2022-11-24 18:46:56,921 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 18:46:57,170 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 18:46:57,247 - logger_File -INFO - User Clicked Login Button
+2022-11-24 18:46:57,635 - logger_File -INFO - Account is Visible
+2022-11-24 18:46:57,695 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 18:46:57,769 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 18:46:57,832 - logger_File -INFO - User Cliked Search Button
+2022-11-24 18:46:58,534 - logger_File -INFO - User Clicked on the Item
+2022-11-24 18:46:58,831 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 18:46:58,890 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 18:46:59,225 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 18:46:59,290 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 18:46:59,363 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 18:46:59,421 - logger_File -INFO - User Clicked on Place Order
+2022-11-24 18:52:24,578 - logger_File -INFO - User See both Title are Matching
+2022-11-24 18:52:24,716 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 18:52:24,956 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 18:52:25,030 - logger_File -INFO - User Clicked Login Button
+2022-11-24 18:52:25,419 - logger_File -INFO - Account is Visible
+2022-11-24 18:52:25,482 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 18:52:25,548 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 18:52:25,603 - logger_File -INFO - User Cliked Search Button
+2022-11-24 19:01:14,021 - logger_File -INFO - User See both Title are Matching
+2022-11-24 19:01:14,127 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 19:01:14,292 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 19:01:14,350 - logger_File -INFO - User Clicked Login Button
+2022-11-24 19:01:14,744 - logger_File -INFO - Account is Visible
+2022-11-24 19:01:14,800 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 19:01:14,867 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 19:01:14,923 - logger_File -INFO - User Cliked Search Button
+2022-11-24 19:17:06,769 - logger_File -INFO - User See both Title are Matching
+2022-11-24 19:17:06,880 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 19:17:07,053 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 19:17:07,106 - logger_File -INFO - User Clicked Login Button
+2022-11-24 19:17:07,744 - logger_File -INFO - Account is Visible
+2022-11-24 19:17:07,796 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 19:17:07,864 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 19:17:07,918 - logger_File -INFO - User Cliked Search Button
+2022-11-24 19:17:08,586 - logger_File -INFO - User Clicked on the Item
+2022-11-24 19:22:11,193 - logger_File -INFO - User See both Title are Matching
+2022-11-24 19:22:11,297 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 19:22:11,455 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 19:22:11,508 - logger_File -INFO - User Clicked Login Button
+2022-11-24 19:22:12,013 - logger_File -INFO - Account is Visible
+2022-11-24 19:22:12,068 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 19:22:12,133 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 19:22:12,189 - logger_File -INFO - User Cliked Search Button
+2022-11-24 19:22:12,240 - logger_File -INFO - User Clicked on the Item
+2022-11-24 19:27:44,889 - logger_File -INFO - User See both Title are Matching
+2022-11-24 19:27:45,027 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 19:27:45,224 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 19:27:45,287 - logger_File -INFO - User Clicked Login Button
+2022-11-24 19:27:45,811 - logger_File -INFO - Account is Visible
+2022-11-24 19:27:45,877 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 19:27:45,955 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 19:27:46,016 - logger_File -INFO - User Cliked Search Button
+2022-11-24 21:58:29,503 - logger_File -INFO - User See both Title are Matching
+2022-11-24 21:58:29,651 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 21:58:29,879 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 21:58:29,956 - logger_File -INFO - User Clicked Login Button
+2022-11-24 21:58:30,357 - logger_File -INFO - Account is Visible
+2022-11-24 21:58:30,483 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 21:58:30,645 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 21:58:30,765 - logger_File -INFO - User Cliked Search Button
+2022-11-24 21:58:31,117 - logger_File -INFO - User Clicked on the Item
+2022-11-24 22:14:29,319 - logger_File -INFO - User See both Title are Matching
+2022-11-24 22:14:29,434 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 22:14:29,616 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 22:14:29,671 - logger_File -INFO - User Clicked Login Button
+2022-11-24 22:14:30,073 - logger_File -INFO - Account is Visible
+2022-11-24 22:14:30,137 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 22:14:30,239 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 22:14:30,299 - logger_File -INFO - User Cliked Search Button
+2022-11-24 22:14:30,838 - logger_File -INFO - User Clicked on the Item
+2022-11-24 22:21:12,505 - logger_File -INFO - User See both Title are Matching
+2022-11-24 22:21:12,614 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 22:21:12,798 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 22:21:12,865 - logger_File -INFO - User Clicked Login Button
+2022-11-24 22:21:13,250 - logger_File -INFO - Account is Visible
+2022-11-24 22:21:13,312 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 22:21:13,421 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 22:21:13,486 - logger_File -INFO - User Cliked Search Button
+2022-11-24 22:21:14,048 - logger_File -INFO - User Clicked on the Item
+2022-11-24 22:31:06,251 - logger_File -INFO - User See both Title are Matching
+2022-11-24 22:31:06,493 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 22:31:06,818 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 22:31:06,935 - logger_File -INFO - User Clicked Login Button
+2022-11-24 22:31:08,737 - logger_File -INFO - Account is Visible
+2022-11-24 22:31:08,848 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 22:31:12,007 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 22:31:15,146 - logger_File -INFO - User Cliked Search Button
+2022-11-24 22:31:18,287 - logger_File -INFO - User Clicked on the Item
+2022-11-24 22:37:56,011 - logger_File -INFO - User See both Title are Matching
+2022-11-24 22:37:56,249 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 22:37:56,495 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 22:37:56,619 - logger_File -INFO - User Clicked Login Button
+2022-11-24 22:37:57,213 - logger_File -INFO - Account is Visible
+2022-11-24 22:37:57,340 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 22:38:00,485 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 22:38:03,609 - logger_File -INFO - User Cliked Search Button
+2022-11-24 22:38:06,726 - logger_File -INFO - User Clicked on the Item
+2022-11-24 22:41:34,315 - logger_File -INFO - User See both Title are Matching
+2022-11-24 22:41:34,472 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 22:41:34,735 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 22:41:34,820 - logger_File -INFO - User Clicked Login Button
+2022-11-24 22:41:35,869 - logger_File -INFO - Account is Visible
+2022-11-24 22:41:35,937 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 22:41:39,129 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 22:41:42,260 - logger_File -INFO - User Cliked Search Button
+2022-11-24 22:41:45,285 - logger_File -INFO - User Clicked on the Item
+2022-11-24 22:48:27,043 - logger_File -INFO - User See both Title are Matching
+2022-11-24 22:48:27,265 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 22:48:27,547 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 22:48:27,666 - logger_File -INFO - User Clicked Login Button
+2022-11-24 22:48:28,045 - logger_File -INFO - Account is Visible
+2022-11-24 22:48:28,174 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 22:48:31,310 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 22:48:34,457 - logger_File -INFO - User Cliked Search Button
+2022-11-24 22:48:37,497 - logger_File -INFO - User Clicked on the Item
+2022-11-24 22:52:05,527 - logger_File -INFO - User See both Title are Matching
+2022-11-24 22:52:05,697 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 22:52:06,007 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 22:52:06,118 - logger_File -INFO - User Clicked Login Button
+2022-11-24 22:52:06,512 - logger_File -INFO - Account is Visible
+2022-11-24 22:52:06,600 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 22:52:09,740 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 22:52:12,885 - logger_File -INFO - User Cliked Search Button
+2022-11-24 22:52:15,926 - logger_File -INFO - User Clicked on the Item
+2022-11-24 22:52:16,301 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 22:52:16,422 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 22:52:16,743 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 22:57:03,953 - logger_File -INFO - User See both Title are Matching
+2022-11-24 22:57:04,136 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 22:57:04,449 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 22:57:04,561 - logger_File -INFO - User Clicked Login Button
+2022-11-24 22:57:04,934 - logger_File -INFO - Account is Visible
+2022-11-24 22:57:05,029 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 22:57:05,153 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 22:57:05,266 - logger_File -INFO - User Cliked Search Button
+2022-11-24 22:57:05,505 - logger_File -INFO - User Clicked on the Item
+2022-11-24 22:57:05,777 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 22:57:05,851 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 22:57:06,102 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 22:57:06,185 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 22:57:06,268 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 22:59:24,339 - logger_File -INFO - User See both Title are Matching
+2022-11-24 22:59:24,469 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 22:59:24,697 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 22:59:24,766 - logger_File -INFO - User Clicked Login Button
+2022-11-24 22:59:25,186 - logger_File -INFO - Account is Visible
+2022-11-24 22:59:25,275 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 22:59:25,400 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 22:59:25,487 - logger_File -INFO - User Cliked Search Button
+2022-11-24 22:59:25,760 - logger_File -INFO - User Clicked on the Item
+2022-11-24 22:59:26,114 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 22:59:26,203 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 22:59:26,507 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 22:59:26,614 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 22:59:26,731 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 23:04:14,002 - logger_File -INFO - User See both Title are Matching
+2022-11-24 23:04:14,188 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 23:04:14,500 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 23:04:14,623 - logger_File -INFO - User Clicked Login Button
+2022-11-24 23:04:15,238 - logger_File -INFO - Account is Visible
+2022-11-24 23:04:15,330 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 23:04:15,439 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 23:04:15,508 - logger_File -INFO - User Cliked Search Button
+2022-11-24 23:04:15,877 - logger_File -INFO - User Clicked on the Item
+2022-11-24 23:04:16,172 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 23:04:16,255 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 23:04:16,550 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 23:04:16,649 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 23:04:16,768 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 23:08:12,633 - logger_File -INFO - User See both Title are Matching
+2022-11-24 23:08:12,840 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 23:08:13,164 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 23:08:13,285 - logger_File -INFO - User Clicked Login Button
+2022-11-24 23:08:13,667 - logger_File -INFO - Account is Visible
+2022-11-24 23:08:13,760 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 23:08:13,878 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 23:08:13,984 - logger_File -INFO - User Cliked Search Button
+2022-11-24 23:08:14,197 - logger_File -INFO - User Clicked on the Item
+2022-11-24 23:08:14,538 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 23:08:14,632 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 23:08:14,927 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 23:08:15,035 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 23:08:15,168 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 23:08:15,266 - logger_File -INFO - User Clicked on Place Order
+2022-11-24 23:08:15,804 - logger_File -INFO - User See The Message Order Placed Successfully
+2022-11-24 23:11:50,876 - logger_File -INFO - User See both Title are Matching
+2022-11-24 23:11:51,094 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 23:11:51,447 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 23:11:51,563 - logger_File -INFO - User Clicked Login Button
+2022-11-24 23:11:51,939 - logger_File -INFO - Account is Visible
+2022-11-24 23:11:52,047 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-24 23:11:52,189 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-24 23:11:52,323 - logger_File -INFO - User Cliked Search Button
+2022-11-24 23:11:52,538 - logger_File -INFO - User Clicked on the Item
+2022-11-24 23:11:52,827 - logger_File -INFO - User Selected Item Quatntity
+2022-11-24 23:11:52,921 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-24 23:11:53,169 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-24 23:11:53,283 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-24 23:11:53,398 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-24 23:11:53,497 - logger_File -INFO - User Clicked on Place Order
+2022-11-24 23:11:54,007 - logger_File -INFO - User See The Message Order Placed Successfully
+2022-11-24 23:40:32,647 - logger_File -INFO - User See both Title are Matching
+2022-11-24 23:40:32,862 - logger_File -INFO - User Clicked Sign In Button
+2022-11-24 23:40:33,255 - logger_File -INFO - User Entered E-mail and Password
+2022-11-24 23:40:33,379 - logger_File -INFO - User Clicked Login Button
+2022-11-24 23:40:33,761 - logger_File -INFO - Account is Visible
+2022-11-25 00:40:12,807 - logger_File -INFO - User See both Title are Matching
+2022-11-25 00:40:13,057 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 00:40:13,559 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 00:40:13,717 - logger_File -INFO - User Clicked Login Button
+2022-11-25 00:40:14,688 - logger_File -INFO - Account is Visible
+2022-11-25 00:40:14,877 - logger_File -INFO - User Click Order Section
+2022-11-25 00:40:16,030 - logger_File -INFO - User Clicked On First Order
+2022-11-25 00:46:39,303 - logger_File -INFO - User See both Title are Matching
+2022-11-25 00:46:39,566 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 00:46:40,078 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 00:46:40,241 - logger_File -INFO - User Clicked Login Button
+2022-11-25 00:46:40,664 - logger_File -INFO - Account is Visible
+2022-11-25 00:46:40,868 - logger_File -INFO - User Click Order Section
+2022-11-25 00:46:40,993 - logger_File -INFO - User Clicked On First Order
+2022-11-25 00:48:16,901 - logger_File -INFO - User See both Title are Matching
+2022-11-25 00:48:17,183 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 00:48:17,734 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 00:48:17,896 - logger_File -INFO - User Clicked Login Button
+2022-11-25 00:48:18,341 - logger_File -INFO - Account is Visible
+2022-11-25 00:48:18,537 - logger_File -INFO - User Click Order Section
+2022-11-25 00:48:18,681 - logger_File -INFO - User Clicked On First Order
+2022-11-25 13:50:13,473 - logger_File -INFO - User See both Title are Matching
+2022-11-25 13:50:13,633 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 13:50:13,880 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 13:50:13,943 - logger_File -INFO - User Clicked Login Button
+2022-11-25 13:50:18,466 - logger_File -INFO - Account is Visible
+2022-11-25 13:50:21,664 - logger_File -INFO - User Click Order Section
+2022-11-25 13:50:24,710 - logger_File -INFO - User Clicked On First Order
+2022-11-25 14:55:30,201 - logger_File -INFO - User See both Title are Matching
+2022-11-25 14:55:30,334 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 14:55:30,565 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 14:55:30,632 - logger_File -INFO - User Clicked Login Button
+2022-11-25 14:55:31,026 - logger_File -INFO - Account is Visible
+2022-11-25 14:55:34,191 - logger_File -INFO - User Click Order Section
+2022-11-25 14:55:37,230 - logger_File -INFO - User Clicked On First Order
+2022-11-25 15:01:00,247 - logger_File -INFO - User See both Title are Matching
+2022-11-25 15:01:00,406 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 15:01:00,661 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 15:01:00,742 - logger_File -INFO - User Clicked Login Button
+2022-11-25 15:01:01,092 - logger_File -INFO - Account is Visible
+2022-11-25 15:01:04,260 - logger_File -INFO - User Click Order Section
+2022-11-25 15:01:07,385 - logger_File -INFO - User Clicked On First Order
+2022-11-25 15:12:47,741 - logger_File -INFO - User See both Title are Matching
+2022-11-25 15:12:47,890 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 15:12:48,159 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 15:12:48,244 - logger_File -INFO - User Clicked Login Button
+2022-11-25 15:12:48,606 - logger_File -INFO - Account is Visible
+2022-11-25 15:12:51,742 - logger_File -INFO - User Click Order Section
+2022-11-25 15:12:54,878 - logger_File -INFO - User Clicked On First Order
+2022-11-25 15:13:15,294 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 15:13:18,425 - logger_File -INFO - User Selected The Reasson for Cancelation
+2022-11-25 15:13:21,566 - logger_File -INFO - User Clicked on cancel Order Btn
+2022-11-25 15:13:22,004 - logger_File -INFO - Cancelation Message Displayed
+2022-11-25 15:18:13,143 - logger_File -INFO - User See both Title are Matching
+2022-11-25 15:18:13,300 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 15:18:13,582 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 15:18:13,673 - logger_File -INFO - User Clicked Login Button
+2022-11-25 15:18:14,069 - logger_File -INFO - Account is Visible
+2022-11-25 15:18:17,224 - logger_File -INFO - User Click Order Section
+2022-11-25 15:18:20,354 - logger_File -INFO - User Clicked On First Order
+2022-11-25 15:26:26,593 - logger_File -INFO - User See both Title are Matching
+2022-11-25 15:26:26,757 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 15:26:27,025 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 15:26:27,119 - logger_File -INFO - User Clicked Login Button
+2022-11-25 15:26:27,515 - logger_File -INFO - Account is Visible
+2022-11-25 15:26:30,671 - logger_File -INFO - User Click Order Section
+2022-11-25 15:26:33,804 - logger_File -INFO - User Clicked On First Order
+2022-11-25 15:36:05,923 - logger_File -INFO - User See both Title are Matching
+2022-11-25 15:36:06,052 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 15:36:06,274 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 15:36:06,376 - logger_File -INFO - User Clicked Login Button
+2022-11-25 15:36:06,964 - logger_File -INFO - Account is Visible
+2022-11-25 15:36:10,151 - logger_File -INFO - User Click Order Section
+2022-11-25 15:36:13,289 - logger_File -INFO - User Clicked On First Order
+2022-11-25 15:36:16,408 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 15:40:44,465 - logger_File -INFO - User See both Title are Matching
+2022-11-25 15:40:44,648 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 15:40:44,952 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 15:40:45,046 - logger_File -INFO - User Clicked Login Button
+2022-11-25 15:40:45,400 - logger_File -INFO - Account is Visible
+2022-11-25 15:40:48,567 - logger_File -INFO - User Click Order Section
+2022-11-25 15:40:51,692 - logger_File -INFO - User Clicked On First Order
+2022-11-25 15:40:54,834 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 15:44:27,574 - logger_File -INFO - User See both Title are Matching
+2022-11-25 15:44:27,772 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 15:44:28,120 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 15:44:28,228 - logger_File -INFO - User Clicked Login Button
+2022-11-25 15:44:28,594 - logger_File -INFO - Account is Visible
+2022-11-25 15:44:31,777 - logger_File -INFO - User Click Order Section
+2022-11-25 15:44:34,922 - logger_File -INFO - User Clicked On First Order
+2022-11-25 15:44:38,060 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 15:49:12,392 - logger_File -INFO - User See both Title are Matching
+2022-11-25 15:49:12,586 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 15:49:12,952 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 15:49:13,071 - logger_File -INFO - User Clicked Login Button
+2022-11-25 15:49:13,478 - logger_File -INFO - Account is Visible
+2022-11-25 15:49:16,666 - logger_File -INFO - User Click Order Section
+2022-11-25 15:49:19,817 - logger_File -INFO - User Clicked On First Order
+2022-11-25 15:49:22,949 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 15:59:30,992 - logger_File -INFO - User See both Title are Matching
+2022-11-25 15:59:31,185 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 15:59:31,506 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 15:59:31,610 - logger_File -INFO - User Clicked Login Button
+2022-11-25 15:59:32,014 - logger_File -INFO - Account is Visible
+2022-11-25 15:59:35,189 - logger_File -INFO - User Click Order Section
+2022-11-25 15:59:38,335 - logger_File -INFO - User Clicked On First Order
+2022-11-25 16:05:27,967 - logger_File -INFO - User See both Title are Matching
+2022-11-25 16:05:28,151 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 16:05:28,470 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 16:05:28,577 - logger_File -INFO - User Clicked Login Button
+2022-11-25 16:05:29,035 - logger_File -INFO - Account is Visible
+2022-11-25 16:05:32,200 - logger_File -INFO - User Click Order Section
+2022-11-25 16:05:35,333 - logger_File -INFO - User Clicked On First Order
+2022-11-25 16:05:38,477 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 16:05:45,201 - logger_File -INFO - User Selected The Reasson for Cancelation
+2022-11-25 16:05:48,341 - logger_File -INFO - User Clicked on cancel Order Btn
+2022-11-25 16:05:48,725 - logger_File -INFO - Cancelation Message Displayed
+2022-11-25 16:07:53,138 - logger_File -INFO - User See both Title are Matching
+2022-11-25 16:07:53,327 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 16:07:53,649 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 16:07:53,762 - logger_File -INFO - User Clicked Login Button
+2022-11-25 16:07:54,130 - logger_File -INFO - Account is Visible
+2022-11-25 16:07:57,322 - logger_File -INFO - User Click Order Section
+2022-11-25 16:08:00,465 - logger_File -INFO - User Clicked On First Order
+2022-11-25 16:08:03,596 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 16:12:26,148 - logger_File -INFO - User See both Title are Matching
+2022-11-25 16:12:26,364 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 16:12:26,754 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 16:12:26,875 - logger_File -INFO - User Clicked Login Button
+2022-11-25 16:12:27,257 - logger_File -INFO - Account is Visible
+2022-11-25 16:12:30,460 - logger_File -INFO - User Click Order Section
+2022-11-25 16:12:33,614 - logger_File -INFO - User Clicked On First Order
+2022-11-25 16:12:36,773 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 16:21:58,194 - logger_File -INFO - User See both Title are Matching
+2022-11-25 16:21:58,353 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 16:21:58,640 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 16:21:58,756 - logger_File -INFO - User Clicked Login Button
+2022-11-25 16:21:59,146 - logger_File -INFO - Account is Visible
+2022-11-25 16:22:02,355 - logger_File -INFO - User Click Order Section
+2022-11-25 16:22:05,519 - logger_File -INFO - User Clicked On First Order
+2022-11-25 16:28:21,273 - logger_File -INFO - User See both Title are Matching
+2022-11-25 16:28:21,484 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 16:28:21,841 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 16:28:21,967 - logger_File -INFO - User Clicked Login Button
+2022-11-25 16:28:22,331 - logger_File -INFO - Account is Visible
+2022-11-25 16:28:25,540 - logger_File -INFO - User Click Order Section
+2022-11-25 16:31:21,425 - logger_File -INFO - User See both Title are Matching
+2022-11-25 16:31:21,631 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 16:31:21,996 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 16:31:22,119 - logger_File -INFO - User Clicked Login Button
+2022-11-25 16:31:22,485 - logger_File -INFO - Account is Visible
+2022-11-25 16:31:25,710 - logger_File -INFO - User Click Order Section
+2022-11-25 16:31:28,866 - logger_File -INFO - User Clicked On First Order
+2022-11-25 16:41:57,597 - logger_File -INFO - User See both Title are Matching
+2022-11-25 16:41:57,821 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 16:41:58,179 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 16:41:58,307 - logger_File -INFO - User Clicked Login Button
+2022-11-25 16:41:58,674 - logger_File -INFO - Account is Visible
+2022-11-25 16:42:01,890 - logger_File -INFO - User Click Order Section
+2022-11-25 16:42:05,027 - logger_File -INFO - User Clicked On First Order
+2022-11-25 16:48:47,153 - logger_File -INFO - User See both Title are Matching
+2022-11-25 16:48:47,407 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 16:48:47,775 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 16:48:47,938 - logger_File -INFO - User Clicked Login Button
+2022-11-25 16:48:48,321 - logger_File -INFO - Account is Visible
+2022-11-25 16:48:51,635 - logger_File -INFO - User Click Order Section
+2022-11-25 16:48:54,798 - logger_File -INFO - User Clicked On First Order
+2022-11-25 16:57:40,950 - logger_File -INFO - User See both Title are Matching
+2022-11-25 16:57:41,257 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 16:57:41,702 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 16:57:41,851 - logger_File -INFO - User Clicked Login Button
+2022-11-25 16:57:42,288 - logger_File -INFO - Account is Visible
+2022-11-25 16:57:45,550 - logger_File -INFO - User Click Order Section
+2022-11-25 16:57:48,705 - logger_File -INFO - User Clicked On First Order
+2022-11-25 17:04:19,818 - logger_File -INFO - User See both Title are Matching
+2022-11-25 17:04:20,296 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 17:04:21,172 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 17:04:21,425 - logger_File -INFO - User Clicked Login Button
+2022-11-25 17:04:21,907 - logger_File -INFO - Account is Visible
+2022-11-25 17:04:25,296 - logger_File -INFO - User Click Order Section
+2022-11-25 17:04:28,495 - logger_File -INFO - User Clicked On First Order
+2022-11-25 17:14:29,480 - logger_File -INFO - User See both Title are Matching
+2022-11-25 17:14:29,992 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 17:14:30,800 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 17:14:31,062 - logger_File -INFO - User Clicked Login Button
+2022-11-25 17:14:31,619 - logger_File -INFO - Account is Visible
+2022-11-25 17:14:35,118 - logger_File -INFO - User Click Order Section
+2022-11-25 17:14:38,341 - logger_File -INFO - User Clicked On First Order
+2022-11-25 17:40:16,559 - logger_File -INFO - User See both Title are Matching
+2022-11-25 17:40:16,674 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 17:40:16,853 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 17:40:16,914 - logger_File -INFO - User Clicked Login Button
+2022-11-25 17:40:17,316 - logger_File -INFO - Account is Visible
+2022-11-25 17:40:20,463 - logger_File -INFO - User Click Order Section
+2022-11-25 17:40:23,591 - logger_File -INFO - User Clicked On First Order
+2022-11-25 17:42:47,345 - logger_File -INFO - User See both Title are Matching
+2022-11-25 17:42:47,491 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 17:42:47,676 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 17:42:47,741 - logger_File -INFO - User Clicked Login Button
+2022-11-25 17:42:48,120 - logger_File -INFO - Account is Visible
+2022-11-25 17:42:51,274 - logger_File -INFO - User Click Order Section
+2022-11-25 19:15:21,340 - logger_File -INFO - User See both Title are Matching
+2022-11-25 19:15:21,490 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 19:15:21,725 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 19:15:21,803 - logger_File -INFO - User Clicked Login Button
+2022-11-25 19:15:23,139 - logger_File -INFO - Account is Visible
+2022-11-25 19:15:26,290 - logger_File -INFO - User Click Order Section
+2022-11-25 19:15:29,417 - logger_File -INFO - User Clicked On First Order
+2022-11-25 19:30:59,369 - logger_File -INFO - User See both Title are Matching
+2022-11-25 19:30:59,503 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 19:30:59,731 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 19:30:59,805 - logger_File -INFO - User Clicked Login Button
+2022-11-25 19:31:00,205 - logger_File -INFO - Account is Visible
+2022-11-25 19:31:00,293 - logger_File -INFO - User Click Order Section
+2022-11-25 19:31:00,804 - logger_File -INFO - User Clicked On First Order
+2022-11-25 19:36:40,410 - logger_File -INFO - User See both Title are Matching
+2022-11-25 19:36:40,556 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 19:36:40,803 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 19:36:40,882 - logger_File -INFO - User Clicked Login Button
+2022-11-25 19:36:41,270 - logger_File -INFO - Account is Visible
+2022-11-25 19:36:41,353 - logger_File -INFO - User Click Order Section
+2022-11-25 19:36:41,830 - logger_File -INFO - User Clicked On First Order
+2022-11-25 19:41:00,371 - logger_File -INFO - User See both Title are Matching
+2022-11-25 19:41:00,512 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 19:41:00,767 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 19:41:00,844 - logger_File -INFO - User Clicked Login Button
+2022-11-25 19:41:01,299 - logger_File -INFO - Account is Visible
+2022-11-25 19:41:01,376 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-25 19:41:01,492 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-25 19:41:01,556 - logger_File -INFO - User Cliked Search Button
+2022-11-25 19:41:01,889 - logger_File -INFO - User Clicked on the Item
+2022-11-25 19:41:02,217 - logger_File -INFO - User Selected Item Quatntity
+2022-11-25 19:41:02,291 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-25 19:41:02,570 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-25 19:41:02,647 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-25 19:41:02,740 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-25 19:41:02,817 - logger_File -INFO - User Clicked on Place Order
+2022-11-25 19:41:03,377 - logger_File -INFO - User See The Message Order Placed Successfully
+2022-11-25 20:05:41,206 - logger_File -INFO - User See both Title are Matching
+2022-11-25 20:05:41,446 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 20:05:41,708 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 20:05:41,810 - logger_File -INFO - User Clicked Login Button
+2022-11-25 20:05:42,167 - logger_File -INFO - Account is Visible
+2022-11-25 20:05:42,276 - logger_File -INFO - User Changed the Category to Smart Home
+2022-11-25 20:05:42,388 - logger_File -INFO - User typed kasa outdoor smart plug in Search Feild 
+2022-11-25 20:05:42,479 - logger_File -INFO - User Cliked Search Button
+2022-11-25 20:05:42,804 - logger_File -INFO - User Clicked on the Item
+2022-11-25 20:05:43,121 - logger_File -INFO - User Selected Item Quatntity
+2022-11-25 20:05:43,241 - logger_File -INFO - User Clicked the Add to Cart Button
+2022-11-25 20:05:43,566 - logger_File -INFO - User Can See The Quantity is added in the Cart
+2022-11-25 20:05:43,697 - logger_File -INFO - User Clicked on Cart Logo
+2022-11-25 20:05:43,820 - logger_File -INFO - User Clicked On Proceed to Checkout Button
+2022-11-25 20:05:43,939 - logger_File -INFO - User Clicked on Place Order
+2022-11-25 20:05:44,454 - logger_File -INFO - User See The Message Order Placed Successfully
+2022-11-25 20:47:23,889 - logger_File -INFO - User See both Title are Matching
+2022-11-25 20:47:24,081 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 20:47:24,396 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 20:47:24,501 - logger_File -INFO - User Clicked Login Button
+2022-11-25 20:47:24,881 - logger_File -INFO - Account is Visible
+2022-11-25 20:47:25,002 - logger_File -INFO - User Click Order Section
+2022-11-25 20:47:25,419 - logger_File -INFO - User Clicked On First Order
+2022-11-25 20:54:25,624 - logger_File -INFO - User See both Title are Matching
+2022-11-25 20:54:25,830 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 20:54:26,211 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 20:54:26,330 - logger_File -INFO - User Clicked Login Button
+2022-11-25 20:54:26,737 - logger_File -INFO - Account is Visible
+2022-11-25 20:54:26,887 - logger_File -INFO - User Click Order Section
+2022-11-25 20:54:27,295 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:00:25,654 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:00:25,807 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:00:26,055 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:00:26,131 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:00:27,210 - logger_File -INFO - Account is Visible
+2022-11-25 21:00:27,280 - logger_File -INFO - User Click Order Section
+2022-11-25 21:00:27,802 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:02:22,503 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:02:22,617 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:02:22,794 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:02:22,849 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:02:24,183 - logger_File -INFO - Account is Visible
+2022-11-25 21:02:24,280 - logger_File -INFO - User Click Order Section
+2022-11-25 21:02:25,059 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:02:36,741 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 21:02:36,827 - logger_File -INFO - User Selected The Reasson for Cancelation
+2022-11-25 21:02:36,905 - logger_File -INFO - User Clicked on cancel Order Btn
+2022-11-25 21:02:37,200 - logger_File -INFO - Cancelation Message Displayed
+2022-11-25 21:06:47,501 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:06:47,667 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:06:47,953 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:06:48,050 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:06:48,395 - logger_File -INFO - Account is Visible
+2022-11-25 21:06:48,488 - logger_File -INFO - User Click Order Section
+2022-11-25 21:06:49,006 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:07:04,769 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 21:07:04,856 - logger_File -INFO - User Selected The Reasson for Cancelation
+2022-11-25 21:07:04,929 - logger_File -INFO - User Clicked on cancel Order Btn
+2022-11-25 21:07:05,220 - logger_File -INFO - Cancelation Message Displayed
+2022-11-25 21:09:01,873 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:09:02,003 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:09:02,223 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:09:02,294 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:09:02,629 - logger_File -INFO - Account is Visible
+2022-11-25 21:09:02,692 - logger_File -INFO - User Click Order Section
+2022-11-25 21:09:03,262 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:15:17,209 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:15:17,362 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:15:17,627 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:15:17,712 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:15:18,168 - logger_File -INFO - Account is Visible
+2022-11-25 21:15:18,271 - logger_File -INFO - User Click Order Section
+2022-11-25 21:15:18,890 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:15:30,848 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 21:15:30,935 - logger_File -INFO - User Selected The Reasson for Cancelation
+2022-11-25 21:15:31,023 - logger_File -INFO - User Clicked on cancel Order Btn
+2022-11-25 21:15:31,331 - logger_File -INFO - Cancelation Message Displayed
+2022-11-25 21:18:17,309 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:18:17,462 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:18:17,721 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:18:17,799 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:18:18,190 - logger_File -INFO - Account is Visible
+2022-11-25 21:18:18,258 - logger_File -INFO - User Click Order Section
+2022-11-25 21:18:18,692 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:18:18,725 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 21:18:18,799 - logger_File -INFO - User Selected The Reasson for Cancelation
+2022-11-25 21:18:18,858 - logger_File -INFO - User Clicked on cancel Order Btn
+2022-11-25 21:18:19,132 - logger_File -INFO - Cancelation Message Displayed
+2022-11-25 21:20:41,285 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:20:41,461 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:20:41,719 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:20:41,797 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:20:42,269 - logger_File -INFO - Account is Visible
+2022-11-25 21:20:42,349 - logger_File -INFO - User Click Order Section
+2022-11-25 21:20:42,897 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:20:42,937 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 21:20:43,012 - logger_File -INFO - User Selected The Reasson for Cancelation
+2022-11-25 21:20:43,068 - logger_File -INFO - User Clicked on cancel Order Btn
+2022-11-25 21:20:43,476 - logger_File -INFO - Cancelation Message Displayed
+2022-11-25 21:22:07,773 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:22:07,901 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:22:08,114 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:22:08,176 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:22:08,561 - logger_File -INFO - Account is Visible
+2022-11-25 21:22:08,623 - logger_File -INFO - User Click Order Section
+2022-11-25 21:22:09,073 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:24:31,395 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:24:31,519 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:24:31,694 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:24:31,754 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:24:32,150 - logger_File -INFO - Account is Visible
+2022-11-25 21:24:32,213 - logger_File -INFO - User Click Order Section
+2022-11-25 21:24:32,672 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:24:32,698 - logger_File -INFO - User Clicked on Cancel Order
+2022-11-25 21:24:32,764 - logger_File -INFO - User Selected The Reasson for Cancelation
+2022-11-25 21:24:32,815 - logger_File -INFO - User Clicked on cancel Order Btn
+2022-11-25 21:24:33,093 - logger_File -INFO - Cancelation Message Displayed
+2022-11-25 21:27:59,583 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:27:59,707 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:27:59,887 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:27:59,943 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:28:00,604 - logger_File -INFO - Account is Visible
+2022-11-25 21:28:00,683 - logger_File -INFO - User Click Order Section
+2022-11-25 21:28:00,955 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:28:00,987 - logger_File -INFO - User Clicked on Return Item
+2022-11-25 21:28:01,053 - logger_File -INFO - The reason is selected
+2022-11-25 21:28:01,107 - logger_File -INFO - User Clicked the Drop off Service
+2022-11-25 21:28:01,159 - logger_File -INFO - User Clicked on Return button
+2022-11-25 21:33:50,813 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:33:50,928 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:33:51,084 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:33:51,140 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:33:51,729 - logger_File -INFO - Account is Visible
+2022-11-25 21:33:51,796 - logger_File -INFO - User Click Order Section
+2022-11-25 21:33:52,492 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:33:52,516 - logger_File -INFO - User Clicked on Return Item
+2022-11-25 21:33:52,578 - logger_File -INFO - The reason is selected
+2022-11-25 21:33:52,627 - logger_File -INFO - User Clicked the Drop off Service
+2022-11-25 21:33:52,679 - logger_File -INFO - User Clicked on Return button
+2022-11-25 21:45:33,092 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:45:33,228 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:45:33,396 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:45:33,454 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:45:33,908 - logger_File -INFO - Account is Visible
+2022-11-25 21:45:33,974 - logger_File -INFO - User Click Order Section
+2022-11-25 21:45:34,539 - logger_File -INFO - User Clicked On First Order
+2022-11-25 21:46:17,421 - logger_File -INFO - User See both Title are Matching
+2022-11-25 21:46:17,561 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 21:46:17,775 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 21:46:17,827 - logger_File -INFO - User Clicked Login Button
+2022-11-25 21:46:18,244 - logger_File -INFO - Account is Visible
+2022-11-25 21:46:18,307 - logger_File -INFO - User Click Order Section
+2022-11-25 21:46:18,704 - logger_File -INFO - User Clicked On First Order
+2022-11-25 22:28:40,905 - logger_File -INFO - User See both Title are Matching
+2022-11-25 22:28:41,042 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 22:28:41,230 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 22:28:41,284 - logger_File -INFO - User Clicked Login Button
+2022-11-25 22:28:41,619 - logger_File -INFO - Account is Visible
+2022-11-25 22:28:41,683 - logger_File -INFO - User Click Order Section
+2022-11-25 22:28:42,250 - logger_File -INFO - User Clicked On First Order
+2022-11-25 22:28:42,310 - logger_File -INFO - User Clicked Review Button
+2022-11-25 22:28:42,444 - logger_File -INFO - User Wrote the Review
+2022-11-25 22:28:42,499 - logger_File -INFO - User Click the add Button to Add the Review
+2022-11-25 22:28:43,307 - logger_File -INFO - Message added Successfully
+2022-11-25 22:33:36,718 - logger_File -INFO - User See both Title are Matching
+2022-11-25 22:33:36,855 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 22:33:37,095 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 22:33:37,165 - logger_File -INFO - User Clicked Login Button
+2022-11-25 22:33:37,625 - logger_File -INFO - Account is Visible
+2022-11-25 22:33:37,697 - logger_File -INFO - User Click Order Section
+2022-11-25 22:33:38,223 - logger_File -INFO - User Clicked On First Order
+2022-11-25 22:33:38,251 - logger_File -INFO - User Clicked on Return Item
+2022-11-25 22:33:38,315 - logger_File -INFO - The reason is selected
+2022-11-25 22:33:38,367 - logger_File -INFO - User Clicked the Drop off Service
+2022-11-25 22:33:38,420 - logger_File -INFO - User Clicked on Return button
+2022-11-25 22:50:14,939 - logger_File -INFO - User See both Title are Matching
+2022-11-25 22:50:15,051 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 22:50:15,210 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 22:50:15,268 - logger_File -INFO - User Clicked Login Button
+2022-11-25 22:50:15,906 - logger_File -INFO - Account is Visible
+2022-11-25 22:50:15,981 - logger_File -INFO - User Click Order Section
+2022-11-25 22:50:16,204 - logger_File -INFO - User Clicked On First Order
+2022-11-25 22:51:55,988 - logger_File -INFO - User See both Title are Matching
+2022-11-25 22:51:56,090 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 22:51:56,251 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 22:51:56,307 - logger_File -INFO - User Clicked Login Button
+2022-11-25 22:51:56,816 - logger_File -INFO - Account is Visible
+2022-11-25 22:51:56,884 - logger_File -INFO - User Click Order Section
+2022-11-25 22:51:57,340 - logger_File -INFO - User Clicked On First Order
+2022-11-25 22:51:57,368 - logger_File -INFO - User Clicked on Return Item
+2022-11-25 22:51:57,432 - logger_File -INFO - The reason is selected
+2022-11-25 22:51:57,483 - logger_File -INFO - User Clicked the Drop off Service
+2022-11-25 22:51:57,533 - logger_File -INFO - User Clicked on Return button
+2022-11-25 22:55:08,554 - logger_File -INFO - User See both Title are Matching
+2022-11-25 22:55:08,696 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 22:55:08,939 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 22:55:09,013 - logger_File -INFO - User Clicked Login Button
+2022-11-25 22:55:09,354 - logger_File -INFO - Account is Visible
+2022-11-25 22:55:09,422 - logger_File -INFO - User Click Order Section
+2022-11-25 22:55:10,023 - logger_File -INFO - User Clicked On First Order
+2022-11-25 22:55:10,055 - logger_File -INFO - User Clicked on Return Item
+2022-11-25 22:55:10,131 - logger_File -INFO - The reason is selected
+2022-11-25 22:55:10,182 - logger_File -INFO - User Clicked the Drop off Service
+2022-11-25 22:55:10,234 - logger_File -INFO - User Clicked on Return button
+2022-11-25 22:58:15,007 - logger_File -INFO - User See both Title are Matching
+2022-11-25 22:58:15,109 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 22:58:15,275 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 22:58:15,331 - logger_File -INFO - User Clicked Login Button
+2022-11-25 22:58:15,717 - logger_File -INFO - Account is Visible
+2022-11-25 22:58:15,787 - logger_File -INFO - User Click Order Section
+2022-11-25 22:58:16,396 - logger_File -INFO - User Clicked On First Order
+2022-11-25 22:58:16,425 - logger_File -INFO - User Clicked on Return Item
+2022-11-25 22:58:16,488 - logger_File -INFO - The reason is selected
+2022-11-25 22:58:16,541 - logger_File -INFO - User Clicked the Drop off Service
+2022-11-25 22:58:16,592 - logger_File -INFO - User Clicked on Return button
+2022-11-25 22:58:16,871 - logger_File -INFO - User Can See a message Item Return was Successfull
+2022-11-25 22:59:59,000 - logger_File -INFO - User See both Title are Matching
+2022-11-25 22:59:59,144 - logger_File -INFO - User Clicked Sign In Button
+2022-11-25 22:59:59,397 - logger_File -INFO - User Entered E-mail and Password
+2022-11-25 22:59:59,476 - logger_File -INFO - User Clicked Login Button
+2022-11-25 23:00:00,747 - logger_File -INFO - Account is Visible
+2022-11-25 23:00:00,824 - logger_File -INFO - User Click Order Section
+2022-11-25 23:00:01,157 - logger_File -INFO - User Clicked On First Order
+2022-11-25 23:00:01,221 - logger_File -INFO - User Clicked Review Button
+2022-11-25 23:00:01,369 - logger_File -INFO - User Wrote the Review
+2022-11-25 23:00:01,423 - logger_File -INFO - User Click the add Button to Add the Review
+2022-11-25 23:00:02,305 - logger_File -INFO - Message added Successfully
