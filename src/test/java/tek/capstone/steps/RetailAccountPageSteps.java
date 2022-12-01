@@ -22,8 +22,12 @@ public class RetailAccountPageSteps extends CommonUtility {
 	}
 	@When("User update Name {string} and Phone {string}")
 	public void userUpdateNameAndPhone(String name, String phoneNumber) {
+		clearTextUsingSendKeys(factory.accountPage().nameFeild);
+		
 		sendText(factory.accountPage().nameFeild,name);
-		sendText(factory.accountPage().phoneNumFeild, phoneNumber);
+		clearTextUsingSendKeys(factory.accountPage().phoneNumber);
+		sendText(factory.accountPage().phoneNumber, phoneNumber);
+		
 		logger.info("User entered Name and phone Number");
 		
 	   

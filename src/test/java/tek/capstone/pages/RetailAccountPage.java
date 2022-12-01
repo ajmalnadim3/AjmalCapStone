@@ -11,7 +11,7 @@ public class RetailAccountPage extends BaseSetup{
 	public RetailAccountPage() {
 		PageFactory.initElements(getDriver(), this);
 	}
-	
+	//ADDPHONE
 	@FindBy(id = "nameInput")
 	public WebElement nameFeild;
 	
@@ -19,8 +19,8 @@ public class RetailAccountPage extends BaseSetup{
 	@FindBy(id = "personalUpdateBtn")
 	public WebElement updateClick;
 	
-	@FindBy(xpath = "//input[@name = 'phoneNumber']")
-	public WebElement phoneNumFeild;
+	@FindBy(xpath = "//*[@id=\"personalPhoneInput\"]")
+	public WebElement phoneNumber;
 	
 	@FindBy(xpath = "//img[@alt='profile pic']")
 	public WebElement profileSeen;

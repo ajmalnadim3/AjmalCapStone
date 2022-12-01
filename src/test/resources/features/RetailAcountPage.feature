@@ -10,7 +10,7 @@ Feature: Retail Account Page
   @AddingPhoneNumber
   Scenario: Verify User can update Profiel information
     When User click on Account option
-    And User update Name 'Bababg' and Phone '916 450 3429'
+    And User update Name 'Bababg' and Phone '916 450 0000'
     And User click on Update button
     Then User profile information should be updated
 
