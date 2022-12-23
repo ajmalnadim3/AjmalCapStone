@@ -11,24 +11,27 @@ Feature: Retial WebPage
     When User click on All section
     Then options are present in Shop by Department sidebar Electronics  Computers  Smart Home  Sports  Automative
 
-  #@SidebarOptions
-  #@Scenario Outline: Verify department sidebar options
-  #Given User is on retail website
-  #  When User click on All section
-  #  And User on <department>
-  #  Then below options are present in department <optionOne> and <optionTwo>
-  #   Examples:
-  #   | department    | optionOne                        | optionTwo                  |
-  #    | 'Electronics' | TV & Video                       | Video Games              |
-  #   | 'Computers'   | 'Accessories'                    | 'Networking'               |
-  #    | 'Smart Home'  | 'Smart Home Lightning'           | 'Plugs and Outlets'        |
-  #     | 'Sports'      | 'Athletic Clothing'              | 'Exercise & Fitness'       |
-  #| 'Automotive'  | 'Automative Parts & Accessories' | 'MotorCycle & Powersports' |
+  @SidebarOptions
+  Scenario Outline: Verify department sidebar options
+    Given User is on retail website
+    When User click on All section
+    And User on <department>
+    Then below options are present in department
+      | <optionOne> | <optionTwo> |
+
+    Examples: 
+      | department    | optionOne                      | optionTwo                |
+      | 'Electronics' | TV & Video                     | Video Games              |
+      | 'Computers'   | Accessories                    | Networking               |
+      | 'Smart Home'  | Smart Home Lightning           | Plugs and Outlets        |
+      | 'Sports'      | Athletic Clothing              | Exercise & Fitness       |
+      | 'Automotive'  | Automative Parts & Accessories | MotorCycle & Powersports |
+
   @AddItemToCart
   Scenario: Verify User can add an item to cart
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'Bashir.CapstoneP10@tek.com' and password 'Book@7860'
+    And User enter email 'mortytest2@yahoo.com' and password 'Sadrajan22$'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -43,7 +46,7 @@ Feature: Retial WebPage
   Scenario: Verify User can place an order without Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'Bashir.CapstoneP10@tek.com' and password 'Book@7860'
+    And User enter email 'mortytest2@yahoo.com' and password 'Sadrajan22$'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -72,7 +75,7 @@ Feature: Retial WebPage
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'Bashir.CapstoneP10@tek.com' and password 'Book@7860'
+    And User enter email 'mortytest2@yahoo.com' and password 'Sadrajan22$'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Electronics'

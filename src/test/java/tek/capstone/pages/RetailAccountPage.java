@@ -24,7 +24,9 @@ public class RetailAccountPage extends BaseSetup{
 	
 	@FindBy(xpath = "//img[@alt='profile pic']")
 	public WebElement profileSeen;
+	
 	//password change
+	
 	@FindBy(id = "previousPasswordInput")
 	public WebElement  oldPassword;
 	
@@ -128,7 +130,7 @@ public class RetailAccountPage extends BaseSetup{
 	
 	//EDITTING CARD
 	
-	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div[2]/div/div[1]/div/div[1]/div[1]/img")
+	@FindBy(xpath = "//div[@class = 'account__payment-sub']")
 	public WebElement masterCardimagClick;
 	
 	@FindBy(xpath = "//button[text()='Edit']")
@@ -139,6 +141,9 @@ public class RetailAccountPage extends BaseSetup{
 	
 	@FindBy(xpath = "//button[text()='Update Your Card']")
 	public WebElement updateEiditCard;
+	
+	@FindBy(xpath = "//div[text() = 'Payment Method updated Successfully']")
+	public WebElement updatecardbtn;
 	
 	//RemovingCard
 	

@@ -1,5 +1,7 @@
 package tek.capstone.pages;
 
+import java.util.List;
+
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
@@ -8,152 +10,81 @@ import tek.capstone.base.BaseSetup;
 
 public class RetailHomePage extends BaseSetup {
 	public RetailHomePage() {
-		PageFactory.initElements(getDriver(),this);
-		
-	}
-@FindBy(xpath = "//title[text()='React App']")
-public WebElement pageTitle;
+		PageFactory.initElements(getDriver(), this);
 
-@FindBy(xpath = "//a[text()='TEKSCHOOL']")
-public WebElement homepageLogo;
+	}
+
+	@FindBy(xpath = "//title[text()='React App']")
+	public WebElement pageTitle;
+
+	@FindBy(xpath = "//a[text()='TEKSCHOOL']")
+	public WebElement homepageLogo;
 
 //HOME-SHOP DEPARTMENTS
 
-@FindBy(xpath = "//*[@id=\"hamburgerBtn\"]/span")
-public WebElement allDepartments;
+	@FindBy(xpath = "//*[@id=\"hamburgerBtn\"]/span")
+	public WebElement allDepartments;
 
-@FindBy(xpath = "//span[text()='Electronics']")
-public WebElement electronicsField;
+	@FindBy(xpath = "//span[text()='Electronics']")
+	public WebElement electronicsField;
 
-@FindBy(xpath = "//span[text()='Computers']")
-public WebElement computersField;
+	@FindBy(xpath = "//span[text()='Computers']")
+	public WebElement computersField;
 
-@FindBy(xpath = "//span[text()='Smart Home']")
-public WebElement smartHomeField;
+	@FindBy(xpath = "//span[text()='Smart Home']")
+	public WebElement smartHomeField;
 
-@FindBy(xpath = "//span[text()='Sports']")
-public WebElement sportsField;
+	@FindBy(xpath = "//span[text()='Sports']")
+	public WebElement sportsField;
 
-@FindBy(xpath = "//span[text()='Automative']")
-public WebElement automativeField;
+	@FindBy(xpath = "//span[text()='Automative']")
+	public WebElement automativeField;
 
-
-// @SidebarOptions
-
-//@FindBy(id = "contentHeader")
-//public WebElement shopDepartmentFeild;
-//
-//@FindBy(xpath = "//span[text()='TV & Video']")
-//public WebElement tvAndVideoFeild ;
-//
-//@FindBy(xpath = "//span[text()='Video Games']")
-//public WebElement videoGamesFeild;
-//
-//@FindBy(xpath = "//span[text()='Accessories']")
-//public WebElement accessoriesFeild;
-//
-//@FindBy(xpath = "//span[text()='Networking']")
-//public WebElement networkingFeild;
-//
-//@FindBy(xpath = "//span[text()='Smart Home Lightning']")
-//public WebElement smartHomeAndLighting ;
-//
-//@FindBy(xpath = "//span[text()='Plugs and Outlets']")
-//public WebElement plugsAndOutlets;
-//
-//@FindBy(xpath = "//span[text()='Athletic Clothing']")
-//public WebElement athleticClothing;
-//
-//@FindBy(xpath = "//span[text()='Exercise & Fitness']")
-//public WebElement excerciseAndFitness;
-//
-//@FindBy(xpath = "//span[text()='Automative Parts & Accessories']")
-//public WebElement autoPartsFeild;
-//
-//@FindBy(xpath = "//span[text()='MotorCycle & Powersports']")
-//public WebElement motorCycleParts ;
-
-
-
-
-
-
+//slidBar 
+	@FindBy(xpath = "//div[@class = 'sidebar_content-item']/span")
+	public List<WebElement> slidBar;
 
 //@AddItemToCart
 
-@FindBy(xpath = "//select[@id='search']")
-public WebElement smartHomeCategory;
+	@FindBy(xpath = "//select[@id='search']")
+	public WebElement smartHomeCategory;
 
-@FindBy(id = "searchInput")
-public WebElement searchFeildnew;
+	@FindBy(id = "searchInput")
+	public WebElement searchFeildnew;
 
-@FindBy(id = "searchBtn")
-public WebElement searchClick;
+	@FindBy(id = "searchBtn")
+	public WebElement searchClick;
 
+	@FindBy(xpath = "//p[@class='products__name']")
+	public WebElement clickItem;
 
+	@FindBy(xpath = "//select[@class='product__select']")
+	public WebElement selectItemNuber;
 
-@FindBy(xpath = "//p[@class='products__name']")
-public WebElement clickItem;
+	@FindBy(xpath = "//*[@id=\"addToCartBtn\"]/span")
+	public WebElement addToCarrt;
 
-@FindBy(xpath = "//select[@class='product__select']")
-public WebElement selectItemNuber;
-
-@FindBy(xpath = "//*[@id=\"addToCartBtn\"]/span")
-public WebElement addToCarrt;
-
-@FindBy(id = "cartQuantity")
-public WebElement cartQtyFeild;
-
+	@FindBy(id = "cartQuantity")
+	public WebElement cartQtyFeild;
 
 //PLACING ORDER
 
-@FindBy(id = "cartBtn")
-public WebElement cartBtnOption;
+	@FindBy(id = "cartBtn")
+	public WebElement cartBtnOption;
 
-@FindBy(id = "proceedBtn")
-public WebElement proceedCheckoutOption;
+	@FindBy(id = "proceedBtn")
+	public WebElement proceedCheckoutOption;
 
-@FindBy(id = "addAddressBtn")
-public WebElement addNewAddressBtn;
+	@FindBy(id = "addAddressBtn")
+	public WebElement addNewAddressBtn;
 
-@FindBy(id = "addPaymentBtn")
-public WebElement addPayMethod;
+	@FindBy(id = "addPaymentBtn")
+	public WebElement addPayMethod;
 
-@FindBy(xpath = "//*[@id=\"placeOrderBtn\"]")
-public WebElement clickPlaceOrder;
+	@FindBy(xpath = "//*[@id=\"placeOrderBtn\"]")
+	public WebElement clickPlaceOrder;
 
-@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/div[1]/p")
-public WebElement orderPlacedSuccessfully;
-
-//PLACING ORDER1
-
-//@FindBy(xpath = "//*[@id=\"search\"]")
-//public WebElement electronicFeild;
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+	@FindBy(xpath = "//*[@id=\"root\"]/div[1]/div[1]/div[3]/div/div/div[1]/p")
+	public WebElement orderPlacedSuccessfully;
 
 }

@@ -4,7 +4,7 @@ Feature: Retail Order Page
   Scenario: Verify User can cancel the order
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'Bashir.CapstoneP10@tek.com' and password 'Book@7860'
+    And User enter email 'mortytest2@yahoo.com' and password 'Sadrajan22$'
     And User click on login button
     And User should be logged in into Account
     And User click on Orders section
@@ -18,7 +18,7 @@ Feature: Retail Order Page
   Scenario: Verify User can Return the order
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'Bashir.CapstoneP10@tek.com' and password 'Book@7860'
+    And User enter email 'mortytest2@yahoo.com' and password 'Sadrajan22$'
     And User click on login button
     And User should be logged in into Account
     And User click on Orders section
@@ -33,7 +33,7 @@ Feature: Retail Order Page
   Scenario: Verify User can write a review on order placed
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'Bashir.CapstoneP10@tek.com' and password 'Book@7860'
+    And User enter email 'mortytest2@yahoo.com' and password 'Sadrajan22$'
     And User click on login button
     And User should be logged in into Account
     And User click on Orders section

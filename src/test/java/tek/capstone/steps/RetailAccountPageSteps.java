@@ -23,20 +23,15 @@ public class RetailAccountPageSteps extends CommonUtility {
 	@When("User update Name {string} and Phone {string}")
 	public void userUpdateNameAndPhone(String name, String phoneNumber) {
 		clearTextUsingSendKeys(factory.accountPage().nameFeild);
-		
 		sendText(factory.accountPage().nameFeild,name);
 		clearTextUsingSendKeys(factory.accountPage().phoneNumber);
 		sendText(factory.accountPage().phoneNumber, phoneNumber);
-		
 		logger.info("User entered Name and phone Number");
-		
-	   
 	}
 	@When("User click on Update button")
 	public void userClickOnUpdateButton() {
 		click(factory.accountPage().updateClick);
 		logger.info("User Clicked on Update Button");
-	 
 	}
 	@Then("User profile information should be updated")
 	public void userProfileInformationShouldBeUpdated() {
@@ -108,7 +103,7 @@ public class RetailAccountPageSteps extends CommonUtility {
 	@When("User click on card image")
 	public void userClickOnEditCardImage() {
 		click(factory.accountPage().masterCardimagClick);
-		logger.info("User Clicked Master Card Image");
+		logger.info("User click on card image");
 		
 	}
 	
@@ -137,9 +132,12 @@ public class RetailAccountPageSteps extends CommonUtility {
 		logger.info("User Clicked Update Card");
 
 	}
-
+	@Then("a a message should be displayed {string}")
+	public void aMessageShouldBeDisplayedPaymentMethodUpdatedSuccessfully(String message) {
+		waitTillPresence(factory.accountPage().updatecardbtn);
+		logger.info("a message should be displayed payment Mettod updated Successfully");
 	
-	
+	}
 	//RemovingCard
 	
 	@When("User click on card options")
@@ -209,11 +207,9 @@ public class RetailAccountPageSteps extends CommonUtility {
 	clearTextUsingSendKeys(factory.accountPage().appartment);
 	clearTextUsingSendKeys(factory.accountPage().cityFeild);
 	clearTextUsingSendKeys(factory.accountPage().zipcodeFeild);
-	logger.info("User Clicked on Edit Address Option and cleared the Values");
+	logger.info("User Click on edit Address Option");
 	}
-	
 
-	
 	@Then("User click update Your Address button")
 	public void userClickUpdateAddBtn() {
 		click(factory.accountPage().updatateAddress);
@@ -224,8 +220,7 @@ public class RetailAccountPageSteps extends CommonUtility {
 	@Then("a message should be displayed ’Address Updated Successfully’")
 	public void addressUpdatedSuccessfully() {
 		waitTillPresence(factory.accountPage().addressUpdatedSuccessful);
-		
-	logger.info("updated Successefully");
+	logger.info("a message should be displayed address updated successfully");
 		
 	}
 	
