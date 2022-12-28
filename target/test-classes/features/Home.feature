@@ -20,12 +20,12 @@ Feature: Retial WebPage
       | <optionOne> | <optionTwo> |
 
     Examples: 
-      | department    | optionOne                        | optionTwo                  |
-      | 'Electronics' | 'TV & Video'                     | 'Video Games'              |
-      | 'Computers'   | 'Accessories'                    | 'Networking'               |
-      | 'Smart Home'  | 'Smart Home Lightning'           | 'Plugs and Outlets'        |
-      | 'Sports'      | 'Athletic Clothing'              | 'Exercise & Fitness'       |
-      | 'Automotive'  | 'Automative Parts & Accessories' | 'MotorCycle & Powersports' |
+      | department    | optionOne                      | optionTwo                |
+      | 'Electronics' | TV & Video                     | Video Games              |
+      | 'Computers'   | Accessories                    | Networking               |
+      | 'Smart Home'  | Smart Home Lightning           | Plugs and Outlets        |
+      | 'Sports'      | Athletic Clothing              | Exercise & Fitness       |
+      | 'Automotive'  | Automative Parts & Accessories | MotorCycle & Powersports |
 
   @AddItemToCart
   Scenario: Verify User can add an item to cart

@@ -3551,3 +3551,32 @@
 2022-12-21 17:49:30,076 - logger_File -INFO - User Clicked the Drop off Service
 2022-12-21 17:49:30,174 - logger_File -INFO - User Clicked on Return button
 2022-12-21 17:49:30,486 - logger_File -INFO - User Can See a message Item Return was Successfull
+2022-12-26 20:20:02,886 - logger_File -INFO - User See both Title are Matching
+2022-12-26 20:20:03,190 - logger_File -INFO - User Clicked Sign In Button
+2022-12-26 20:20:03,633 - logger_File -INFO - User Entered E-mail and Password
+2022-12-26 20:20:03,802 - logger_File -INFO - User Clicked Login Button
+2022-12-26 20:20:04,880 - logger_File -INFO - Account is Visible
+2022-12-26 20:20:05,103 - logger_File -INFO - User Click Order Section
+2022-12-26 20:20:05,357 - logger_File -INFO - User Clicked On First Order
+2022-12-26 20:22:30,626 - logger_File -INFO - User See both Title are Matching
+2022-12-26 20:22:30,818 - logger_File -INFO - User Clicked Sign In Button
+2022-12-26 20:22:31,124 - logger_File -INFO - User Entered E-mail and Password
+2022-12-26 20:22:31,235 - logger_File -INFO - User Clicked Login Button
+2022-12-26 20:22:31,608 - logger_File -INFO - Account is Visible
+2022-12-26 20:22:31,747 - logger_File -INFO - User Click Order Section
+2022-12-26 20:22:31,981 - logger_File -INFO - User Clicked On First Order
+2022-12-26 20:22:32,040 - logger_File -INFO - User Clicked on Cancel Order
+2022-12-26 20:22:32,172 - logger_File -INFO - User Selected The Reasson for Cancelation
+2022-12-26 20:22:32,282 - logger_File -INFO - User Clicked on cancel Order Btn
+2022-12-26 20:22:32,579 - logger_File -INFO - Cancelation Message Displayed
+2022-12-26 20:23:48,684 - logger_File -INFO - User See both Title are Matching
+2022-12-26 20:23:48,892 - logger_File -INFO - User Clicked Sign In Button
+2022-12-26 20:23:49,218 - logger_File -INFO - User Entered E-mail and Password
+2022-12-26 20:23:49,338 - logger_File -INFO - User Clicked Login Button
+2022-12-26 20:23:49,709 - logger_File -INFO - Account is Visible
+2022-12-26 20:23:49,852 - logger_File -INFO - User Click Order Section
+2022-12-26 20:23:50,212 - logger_File -INFO - User Clicked On First Order
+2022-12-26 20:23:50,255 - logger_File -INFO - User Clicked on Cancel Order
+2022-12-26 20:23:50,390 - logger_File -INFO - User Selected The Reasson for Cancelation
+2022-12-26 20:23:50,518 - logger_File -INFO - User Clicked on cancel Order Btn
+2022-12-26 20:23:50,793 - logger_File -INFO - Cancelation Message Displayed
