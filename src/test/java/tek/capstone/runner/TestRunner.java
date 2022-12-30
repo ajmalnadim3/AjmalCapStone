@@ -6,7 +6,7 @@ import org.junit.runner.RunWith;
 import static io.cucumber.junit.CucumberOptions.SnippetType.CAMELCASE;
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        tags = "@CancelAnOrder",
+        tags = "@PlacingOrder1",
         features = ("classpath:features"),
         glue="tek.capstone",
         dryRun = false,

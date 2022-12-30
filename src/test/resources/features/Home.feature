@@ -31,7 +31,7 @@ Feature: Retial WebPage
   Scenario: Verify User can add an item to cart
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'mortytest2@yahoo.com' and password 'Sadrajan22$'
+    And User enter email 'ajtest@yahoo.com' and password 'Ajmal123$'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -46,7 +46,7 @@ Feature: Retial WebPage
   Scenario: Verify User can place an order without Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'mortytest2@yahoo.com' and password 'Sadrajan22$'
+    And User enter email 'ajtest@yahoo.com' and password 'Ajmal123$'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Smart Home'
@@ -61,12 +61,12 @@ Feature: Retial WebPage
     And User click Add a new address link for shipping address
     And User fill new address form with below information
       | country       | fullName | phoneNumber | streetAddress   | apt | city       | state      | zipCode |
-      | United States | Ahmad    |  9169805445 | 5507Sky Parkway | 543 | Sacramento | California |   95824 |
+      | United States | Ajmal    |  9169876786 | 598 Clyton Rd | 879 | Sacramento | California |   95824 |
     And User click Add Your Address button
     And User click Add a credit card or Debit Card for Payment method
     And User fill Debit or credit card information
       | cardNumber       | nameOnCard | expirationMonth | expirationYear | securityCode |
-      | 9098765432112345 | Bashir     |              12 |           2024 |          876 |
+      | 9876543456789098 | Ajmal     |              12 |           2024 |          786 |
     And User click on Add your card button
     And User click on Place Your Order
     Then a message pop up 'Order Placed, Thanks'
@@ -75,7 +75,7 @@ Feature: Retial WebPage
   Scenario: Verify User can place an order with Shipping address and payment Method on file
     Given User is on retail website
     When User click on Sign in option
-    And User enter email 'mortytest2@yahoo.com' and password 'Sadrajan22$'
+    And User enter email 'ajtest@yahoo.com' and password 'Ajmal123$'
     And User click on login button
     And User should be logged in into Account
     And User change the category to 'Electronics'

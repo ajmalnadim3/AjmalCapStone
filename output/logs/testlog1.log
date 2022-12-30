@@ -3580,3 +3580,423 @@
 2022-12-26 20:23:50,390 [main] INFO logger_File - User Selected The Reasson for Cancelation
 2022-12-26 20:23:50,518 [main] INFO logger_File - User Clicked on cancel Order Btn
 2022-12-26 20:23:50,793 [main] INFO logger_File - Cancelation Message Displayed
+2022-12-29 22:39:33,890 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 22:39:34,044 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 22:39:34,282 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 22:39:34,364 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 22:39:34,710 [main] INFO logger_File - Account is Visible
+2022-12-29 22:42:31,343 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 22:42:31,478 [main] INFO logger_File - User Clicked On Creat New Account
+2022-12-29 22:42:31,892 [main] INFO logger_File - User Entered Reuired Feilds Data
+2022-12-29 22:42:31,971 [main] INFO logger_File - User Clicked Sign Up Button
+2022-12-29 22:42:32,373 [main] INFO logger_File - Account i-con is Visible to the User
+2022-12-29 22:59:38,483 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 22:59:38,638 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 22:59:38,868 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 22:59:38,949 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:01:10,217 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:01:10,364 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:01:10,643 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:01:10,724 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:01:47,012 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:01:47,139 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:01:47,342 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:01:47,413 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:01:47,810 [main] INFO logger_File - Account is Visible
+2022-12-29 23:03:32,919 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:03:33,067 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:03:33,304 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:03:33,383 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:03:33,739 [main] INFO logger_File - Account is Visible
+2022-12-29 23:03:33,863 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:03:34,200 [main] INFO logger_File - User entered Name and phone Number
+2022-12-29 23:03:34,290 [main] INFO logger_File - User Clicked on Update Button
+2022-12-29 23:03:34,314 [main] INFO logger_File - User can see the Profiel 
+2022-12-29 23:04:39,276 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:04:39,400 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:04:39,594 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:04:39,675 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:04:40,084 [main] INFO logger_File - Account is Visible
+2022-12-29 23:04:40,207 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:04:40,519 [main] INFO logger_File - User Changed the Password
+2022-12-29 23:04:40,620 [main] INFO logger_File - User Cliched the Button to Change Password
+2022-12-29 23:05:56,598 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:05:56,741 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:05:56,953 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:05:57,031 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:08:06,981 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:08:07,130 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:08:07,335 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:08:07,417 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:08:53,125 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:08:53,252 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:08:53,439 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:08:53,504 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:10:30,165 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:10:30,297 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:10:30,493 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:10:30,565 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:10:30,918 [main] INFO logger_File - Account is Visible
+2022-12-29 23:11:31,551 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:11:31,678 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:11:31,855 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:11:31,926 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:11:49,777 [main] INFO logger_File - Account is Visible
+2022-12-29 23:11:49,892 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:11:50,176 [main] INFO logger_File - User Changed the Password
+2022-12-29 23:11:50,242 [main] INFO logger_File - User Cliched the Button to Change Password
+2022-12-29 23:12:38,143 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:12:38,259 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:12:38,449 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:12:38,535 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:14:06,394 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:14:06,507 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:14:06,695 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:14:06,772 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:14:07,128 [main] INFO logger_File - Account is Visible
+2022-12-29 23:15:32,481 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:15:32,619 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:15:32,796 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:15:32,877 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:15:33,229 [main] INFO logger_File - Account is Visible
+2022-12-29 23:15:33,348 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:15:33,611 [main] INFO logger_File - User Changed the Password
+2022-12-29 23:15:33,683 [main] INFO logger_File - User Cliched the Button to Change Password
+2022-12-29 23:17:16,493 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:17:16,612 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:17:16,800 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:17:16,884 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:17:17,233 [main] INFO logger_File - Account is Visible
+2022-12-29 23:17:55,875 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:17:56,020 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:17:56,203 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:17:56,281 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:17:56,635 [main] INFO logger_File - Account is Visible
+2022-12-29 23:17:56,752 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:17:57,252 [main] INFO logger_File - User added his debit card information
+2022-12-29 23:17:57,333 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-29 23:17:58,154 [main] INFO logger_File - User Added the Debit Card Information Successfully
+2022-12-29 23:19:31,874 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:19:32,002 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:19:32,192 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:19:32,281 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:19:32,627 [main] INFO logger_File - Account is Visible
+2022-12-29 23:19:32,746 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:19:33,015 [main] INFO logger_File - User click on card image
+2022-12-29 23:19:33,335 [main] INFO logger_File - User Clicked on Edit Card Option
+2022-12-29 23:19:33,672 [main] INFO logger_File - User Entered Required information to Edit the Card
+2022-12-29 23:19:33,756 [main] INFO logger_File - User Clicked Update Card
+2022-12-29 23:19:34,571 [main] INFO logger_File - a message should be displayed payment Mettod updated Successfully
+2022-12-29 23:20:41,410 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:20:41,525 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:20:41,706 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:20:41,785 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:20:42,178 [main] INFO logger_File - Account is Visible
+2022-12-29 23:20:42,296 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:21:28,372 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:21:28,488 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:21:28,673 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:21:28,756 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:21:29,112 [main] INFO logger_File - Account is Visible
+2022-12-29 23:21:29,232 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:22:33,065 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:22:33,183 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:22:33,365 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:22:33,444 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:22:33,805 [main] INFO logger_File - Account is Visible
+2022-12-29 23:22:33,925 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:22:34,418 [main] INFO logger_File - User added his debit card information
+2022-12-29 23:22:34,492 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-29 23:22:35,321 [main] INFO logger_File - User Added the Debit Card Information Successfully
+2022-12-29 23:23:19,737 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:23:19,850 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:23:20,043 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:23:20,112 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:23:20,456 [main] INFO logger_File - Account is Visible
+2022-12-29 23:23:20,573 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:42:21,902 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:42:22,019 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:42:22,201 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:42:22,276 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:42:22,626 [main] INFO logger_File - Account is Visible
+2022-12-29 23:42:22,747 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:44:51,998 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:44:52,124 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:44:52,327 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:44:52,413 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:44:52,803 [main] INFO logger_File - Account is Visible
+2022-12-29 23:44:52,920 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:48:26,763 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:48:26,882 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:48:27,066 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:48:27,139 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:48:27,491 [main] INFO logger_File - Account is Visible
+2022-12-29 23:48:27,618 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:48:27,900 [main] INFO logger_File - User Clicked on Card
+2022-12-29 23:48:27,996 [main] INFO logger_File - User Clicked Remove to remove the card
+2022-12-29 23:48:28,025 [main] INFO logger_File - Empty Card box is Displayed
+2022-12-29 23:49:37,085 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:49:37,227 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:49:37,411 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:49:37,477 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:49:37,872 [main] INFO logger_File - Account is Visible
+2022-12-29 23:49:37,971 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:49:38,068 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-29 23:52:50,576 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:52:50,702 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:52:50,900 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:52:50,988 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:52:51,334 [main] INFO logger_File - Account is Visible
+2022-12-29 23:52:51,455 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:52:51,558 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-29 23:54:58,846 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:54:59,092 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:54:59,519 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:54:59,639 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:54:59,978 [main] INFO logger_File - Account is Visible
+2022-12-29 23:55:00,114 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:55:00,220 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-29 23:57:41,472 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:57:41,602 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:57:41,780 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:57:41,842 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:57:42,194 [main] INFO logger_File - Account is Visible
+2022-12-29 23:57:42,313 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:57:42,414 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-29 23:59:17,228 [main] INFO logger_File - User See both Title are Matching
+2022-12-29 23:59:17,349 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-29 23:59:17,533 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-29 23:59:17,612 [main] INFO logger_File - User Clicked Login Button
+2022-12-29 23:59:17,965 [main] INFO logger_File - Account is Visible
+2022-12-29 23:59:18,083 [main] INFO logger_File - User Clicked on Account Option
+2022-12-29 23:59:18,180 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-30 00:01:23,402 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:01:23,510 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:01:23,698 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:01:23,770 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:01:24,131 [main] INFO logger_File - Account is Visible
+2022-12-30 00:01:24,257 [main] INFO logger_File - User Clicked on Account Option
+2022-12-30 00:01:24,355 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-30 00:06:33,575 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:06:33,733 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:06:33,905 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:06:33,982 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:06:34,327 [main] INFO logger_File - Account is Visible
+2022-12-30 00:06:34,430 [main] INFO logger_File - User Clicked on Account Option
+2022-12-30 00:06:34,525 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-30 00:10:09,610 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:10:09,737 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:10:09,924 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:10:09,988 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:10:10,404 [main] INFO logger_File - Account is Visible
+2022-12-30 00:10:10,529 [main] INFO logger_File - User Clicked on Account Option
+2022-12-30 00:10:10,647 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-30 00:11:49,577 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:11:49,722 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:11:49,903 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:11:49,980 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:11:50,417 [main] INFO logger_File - Account is Visible
+2022-12-30 00:11:50,519 [main] INFO logger_File - User Clicked on Account Option
+2022-12-30 00:11:51,359 [main] INFO logger_File - User Click on edit Address Option
+2022-12-30 00:11:51,972 [main] INFO logger_File - User Entered Required Information
+2022-12-30 00:11:52,063 [main] INFO logger_File - User Clicked the Update Address Button
+2022-12-30 00:11:52,872 [main] INFO logger_File - a message should be displayed address updated successfully
+2022-12-30 00:13:57,517 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:13:57,650 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:13:57,862 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:13:57,948 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:13:58,308 [main] INFO logger_File - Account is Visible
+2022-12-30 00:13:58,426 [main] INFO logger_File - User Clicked on Account Option
+2022-12-30 00:13:58,523 [main] INFO logger_File - User Clidk On Add Addrees I-con
+2022-12-30 00:13:59,200 [main] INFO logger_File - User Entered Required Information
+2022-12-30 00:13:59,299 [main] INFO logger_File - User Clicked Add Button
+2022-12-30 00:14:00,057 [main] INFO logger_File - Message Successfully Updated
+2022-12-30 00:19:27,573 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:19:27,722 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:19:27,919 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:19:27,997 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:19:28,357 [main] INFO logger_File - Account is Visible
+2022-12-30 00:19:28,457 [main] INFO logger_File - User Click Order Section
+2022-12-30 00:19:28,794 [main] INFO logger_File - User Clicked On First Order
+2022-12-30 00:19:28,825 [main] INFO logger_File - User Clicked on Cancel Order
+2022-12-30 00:19:28,912 [main] INFO logger_File - User Selected The Reasson for Cancelation
+2022-12-30 00:19:28,989 [main] INFO logger_File - User Clicked on cancel Order Btn
+2022-12-30 00:19:29,287 [main] INFO logger_File - Cancelation Message Displayed
+2022-12-30 00:21:49,301 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:21:49,418 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:21:49,603 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:21:49,674 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:21:50,142 [main] INFO logger_File - Account is Visible
+2022-12-30 00:21:50,242 [main] INFO logger_File - User Click Order Section
+2022-12-30 00:21:50,825 [main] INFO logger_File - User Clicked On First Order
+2022-12-30 00:24:26,415 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:24:26,569 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:24:26,794 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:24:26,857 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:24:27,205 [main] INFO logger_File - Account is Visible
+2022-12-30 00:24:27,308 [main] INFO logger_File - User Click Order Section
+2022-12-30 00:24:27,590 [main] INFO logger_File - User Clicked On First Order
+2022-12-30 00:24:27,621 [main] INFO logger_File - User Clicked on Return Item
+2022-12-30 00:24:27,717 [main] INFO logger_File - The reason is selected
+2022-12-30 00:24:27,788 [main] INFO logger_File - User Clicked the Drop off Service
+2022-12-30 00:24:27,870 [main] INFO logger_File - User Clicked on Return button
+2022-12-30 00:24:28,122 [main] INFO logger_File - User Can See a message Item Return was Successfull
+2022-12-30 00:26:48,410 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:26:48,525 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:26:48,707 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:26:48,783 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:26:49,156 [main] INFO logger_File - Account is Visible
+2022-12-30 00:26:49,255 [main] INFO logger_File - User Click Order Section
+2022-12-30 00:26:49,484 [main] INFO logger_File - User Clicked On First Order
+2022-12-30 00:26:49,567 [main] INFO logger_File - User Clicked Review Button
+2022-12-30 00:26:49,754 [main] INFO logger_File - User Wrote the Review
+2022-12-30 00:26:49,818 [main] INFO logger_File - User Click the add Button to Add the Review
+2022-12-30 00:26:50,586 [main] INFO logger_File - Message added Successfully
+2022-12-30 00:28:20,503 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:28:20,542 [main] INFO logger_File - logo is present
+2022-12-30 00:29:19,849 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:29:19,973 [main] INFO logger_File - User Clicked on all Section
+2022-12-30 00:29:20,308 [main] INFO logger_File - Sidebar Shop Department Sections are Visible to th User
+2022-12-30 00:31:22,655 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:31:22,774 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:31:22,946 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:31:23,011 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:31:23,412 [main] INFO logger_File - Account is Visible
+2022-12-30 00:31:23,480 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-30 00:31:23,575 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-30 00:31:23,640 [main] INFO logger_File - User Cliked Search Button
+2022-12-30 00:31:23,907 [main] INFO logger_File - User Clicked on the Item
+2022-12-30 00:31:24,198 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-30 00:31:24,280 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-30 00:31:24,539 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-30 00:35:05,292 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:35:05,436 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:35:05,607 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:35:05,683 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:35:06,083 [main] INFO logger_File - Account is Visible
+2022-12-30 00:35:06,172 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-30 00:35:06,274 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-30 00:35:06,335 [main] INFO logger_File - User Cliked Search Button
+2022-12-30 00:35:06,557 [main] INFO logger_File - User Clicked on the Item
+2022-12-30 00:35:06,848 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-30 00:35:06,916 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-30 00:35:06,950 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-30 00:35:07,019 [main] INFO logger_File - User Clicked on Cart Logo
+2022-12-30 00:35:07,116 [main] INFO logger_File - User Clicked On Proceed to Checkout Button
+2022-12-30 00:35:07,216 [main] INFO logger_File - User Clicked to add New Address
+2022-12-30 00:35:07,895 [main] INFO logger_File - User Entered Required Information
+2022-12-30 00:35:08,001 [main] INFO logger_File - User Clicked Add Button
+2022-12-30 00:35:08,026 [main] INFO logger_File - User Clicked to Add Payment Card
+2022-12-30 00:35:08,448 [main] INFO logger_File - User added his debit card information
+2022-12-30 00:35:08,529 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-30 00:35:58,948 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:35:59,096 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:35:59,277 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:35:59,355 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:35:59,704 [main] INFO logger_File - Account is Visible
+2022-12-30 00:35:59,792 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-30 00:35:59,900 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-30 00:35:59,959 [main] INFO logger_File - User Cliked Search Button
+2022-12-30 00:36:00,240 [main] INFO logger_File - User Clicked on the Item
+2022-12-30 00:36:00,529 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-30 00:36:00,613 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-30 00:36:48,361 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:36:48,478 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:36:48,678 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:36:48,759 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:36:49,130 [main] INFO logger_File - Account is Visible
+2022-12-30 00:36:49,221 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-30 00:36:49,345 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-30 00:36:49,437 [main] INFO logger_File - User Cliked Search Button
+2022-12-30 00:36:49,650 [main] INFO logger_File - User Clicked on the Item
+2022-12-30 00:36:49,939 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-30 00:36:50,025 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-30 00:38:39,312 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:38:39,453 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:38:39,623 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:38:39,703 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:38:40,044 [main] INFO logger_File - Account is Visible
+2022-12-30 00:38:40,132 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-30 00:38:40,240 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-30 00:38:40,305 [main] INFO logger_File - User Cliked Search Button
+2022-12-30 00:38:40,586 [main] INFO logger_File - User Clicked on the Item
+2022-12-30 00:38:40,875 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-30 00:38:40,961 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-30 00:41:34,057 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:41:34,173 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:41:34,353 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:41:34,426 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:41:34,772 [main] INFO logger_File - Account is Visible
+2022-12-30 00:41:34,861 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-30 00:41:34,969 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-30 00:41:35,033 [main] INFO logger_File - User Cliked Search Button
+2022-12-30 00:41:35,252 [main] INFO logger_File - User Clicked on the Item
+2022-12-30 00:41:35,540 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-30 00:41:35,622 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-30 00:41:35,882 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-30 00:41:35,978 [main] INFO logger_File - User Clicked on Cart Logo
+2022-12-30 00:41:36,073 [main] INFO logger_File - User Clicked On Proceed to Checkout Button
+2022-12-30 00:41:36,174 [main] INFO logger_File - User Clicked to add New Address
+2022-12-30 00:41:36,876 [main] INFO logger_File - User Entered Required Information
+2022-12-30 00:41:36,973 [main] INFO logger_File - User Clicked Add Button
+2022-12-30 00:41:37,000 [main] INFO logger_File - User Clicked to Add Payment Card
+2022-12-30 00:41:37,397 [main] INFO logger_File - User added his debit card information
+2022-12-30 00:41:37,478 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-30 00:42:32,846 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:42:32,981 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:42:33,168 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:42:33,256 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:42:33,621 [main] INFO logger_File - Account is Visible
+2022-12-30 00:42:33,708 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-30 00:42:33,814 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-30 00:42:33,872 [main] INFO logger_File - User Cliked Search Button
+2022-12-30 00:42:34,138 [main] INFO logger_File - User Clicked on the Item
+2022-12-30 00:42:34,417 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-30 00:42:34,501 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-30 00:42:34,548 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-30 00:42:34,640 [main] INFO logger_File - User Clicked on Cart Logo
+2022-12-30 00:42:34,740 [main] INFO logger_File - User Clicked On Proceed to Checkout Button
+2022-12-30 00:42:34,840 [main] INFO logger_File - User Clicked to add New Address
+2022-12-30 00:42:35,566 [main] INFO logger_File - User Entered Required Information
+2022-12-30 00:42:35,670 [main] INFO logger_File - User Clicked Add Button
+2022-12-30 00:42:35,692 [main] INFO logger_File - User Clicked to Add Payment Card
+2022-12-30 00:42:36,104 [main] INFO logger_File - User added his debit card information
+2022-12-30 00:42:36,186 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-30 00:44:30,518 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:44:30,665 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:44:30,890 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:44:30,950 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:44:31,343 [main] INFO logger_File - Account is Visible
+2022-12-30 00:44:31,432 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-30 00:44:31,539 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-30 00:44:31,601 [main] INFO logger_File - User Cliked Search Button
+2022-12-30 00:44:31,932 [main] INFO logger_File - User Clicked on the Item
+2022-12-30 00:44:32,207 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-30 00:44:32,292 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-30 00:44:32,543 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-30 00:44:32,639 [main] INFO logger_File - User Clicked on Cart Logo
+2022-12-30 00:44:32,735 [main] INFO logger_File - User Clicked On Proceed to Checkout Button
+2022-12-30 00:44:32,835 [main] INFO logger_File - User Clicked to add New Address
+2022-12-30 00:44:33,529 [main] INFO logger_File - User Entered Required Information
+2022-12-30 00:44:33,631 [main] INFO logger_File - User Clicked Add Button
+2022-12-30 00:44:33,656 [main] INFO logger_File - User Clicked to Add Payment Card
+2022-12-30 00:44:34,074 [main] INFO logger_File - User added his debit card information
+2022-12-30 00:44:34,153 [main] INFO logger_File - User clicked on ADD CARD BUTTON
+2022-12-30 00:44:34,795 [main] INFO logger_File - User Clicked on Place Order
+2022-12-30 00:44:35,278 [main] INFO logger_File - User See The Message Order Placed Successfully
+2022-12-30 00:46:05,537 [main] INFO logger_File - User See both Title are Matching
+2022-12-30 00:46:05,669 [main] INFO logger_File - User Clicked Sign In Button
+2022-12-30 00:46:05,846 [main] INFO logger_File - User Entered E-mail and Password
+2022-12-30 00:46:05,922 [main] INFO logger_File - User Clicked Login Button
+2022-12-30 00:46:06,274 [main] INFO logger_File - Account is Visible
+2022-12-30 00:46:06,361 [main] INFO logger_File - User Changed the Category to Smart Home
+2022-12-30 00:46:06,458 [main] INFO logger_File - User typed kasa outdoor smart plug in Search Feild 
+2022-12-30 00:46:06,523 [main] INFO logger_File - User Cliked Search Button
+2022-12-30 00:46:06,799 [main] INFO logger_File - User Clicked on the Item
+2022-12-30 00:46:07,082 [main] INFO logger_File - User Selected Item Quatntity
+2022-12-30 00:46:07,162 [main] INFO logger_File - User Clicked the Add to Cart Button
+2022-12-30 00:46:07,419 [main] INFO logger_File - User Can See The Quantity is added in the Cart
+2022-12-30 00:46:07,515 [main] INFO logger_File - User Clicked on Cart Logo
+2022-12-30 00:46:07,615 [main] INFO logger_File - User Clicked On Proceed to Checkout Button
+2022-12-30 00:46:07,698 [main] INFO logger_File - User Clicked on Place Order
+2022-12-30 00:46:08,136 [main] INFO logger_File - User See The Message Order Placed Successfully
